@@ -1,0 +1,81 @@
+MonitorDistance=50cm
+MonitorWidth=30.41cm
+PixelWidth=3024.0
+PixelHeight=1964.0
+RefreshRate=60.0
+FrameDuration=0.016666666666666666
+3.7784 	ERROR 	Support for the `sounddevice` audio backend is not available this session. Please install `psychopy-sounddevice` and restart the session to enable support.
+12.5656 	INFO 	Loaded monitor calibration from ['2023_03_19 22:45']
+12.5789 	WARNING 	User requested fullscreen with size [3024 1964], but screen is actually [1512, 982]. Using actual size
+13.3204 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f7c7a1b29a0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f7c7a1b28b0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-0.5, -0.5, -0.5]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f7c7a0cc0d0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([3024, 1964]), stencilBits=8, stereo=False, title='PsychoPy', units='deg', useFBO=False, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+13.3204 	EXP 	window1: backgroundImage = None
+13.3204 	EXP 	window1: backgroundFit = 'cover'
+13.4879 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+13.4879 	EXP 	window1: recordFrameIntervals = False
+13.6532 	EXP 	window1: recordFrameIntervals = True
+13.8368 	EXP 	Screen (0) actual frame rate measured at 59.98Hz
+13.8368 	EXP 	window1: recordFrameIntervals = False
+0.0075 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, image=Image(...), interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([10. ,  0.9]), texRes=128, units='deg', win=Window(...))
+0.0091 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, image=Image(...), interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([10. ,  0.9]), texRes=128, units='deg', win=Window(...))
+0.0196 	EXP 	Created unnamed Aperture = Aperture(__class__=<class 'psychopy.visual.aperture.Aperture'>, anchor=('center', 'center'), autoLog=True, depth=0, inverted=False, nVert=UNKNOWN, name='unnamed Aperture', ori=0, pos=array([0., 0.]), shape=UNKNOWN, size=array([10., 10.]), units='deg', win=Window(...))
+0.0646 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.5000000000000001, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0. , 1.5]), rgb=UNKNOWN, text=str(...), units='deg', win=Window(...), wrapWidth=15.0)
+0.0723 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.5000000000000001, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0. , 1.5]), rgb=UNKNOWN, text=str(...), units='deg', win=Window(...), wrapWidth=15.0)
+0.0814 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.5000000000000001, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Please rest until further instructions', units='deg', win=Window(...), wrapWidth=15.0)
+0.1189 	EXP 	window1: units = 'pix'
+0.1190 	INFO 	Mouse: using default window
+0.8441 	INFO 	keyboard.Keyboard is using ptb backend.
+2.6883 	DATA 	Keypress: return
+2.7017 	EXP 	unnamed Aperture: enabled = True
+5.4751 	DATA 	Keypress: 1
+8.5536 	DATA 	Keypress: 5
+9.3697 	DATA 	Keypress: 5
+9.7145 	DATA 	Keypress: 5
+10.1132 	DATA 	Keypress: 5
+10.4618 	DATA 	Keypress: 5
+11.2080 	DATA 	Keypress: 5
+11.5937 	DATA 	Keypress: 5
+12.3890 	DATA 	Keypress: 5
+12.8263 	DATA 	Keypress: 5
+13.2224 	DATA 	Keypress: 5
+13.6614 	DATA 	Keypress: 5
+13.6787 	EXP 	unnamed ImageStim: ori = 0
+13.6787 	EXP 	unnamed ImageStim: ori = 0
+13.6787 	EXP 	unnamed Aperture: enabled = True
+16.1777 	DATA 	Keypress: 5
+16.3079 	EXP 	unnamed ImageStim: ori = 0
+16.3079 	EXP 	unnamed ImageStim: ori = 0
+16.3079 	EXP 	unnamed Aperture: enabled = True
+16.5387 	DATA 	Keypress: 5
+16.6700 	EXP 	unnamed ImageStim: ori = 0
+16.6700 	EXP 	unnamed ImageStim: ori = 0
+16.6700 	EXP 	unnamed Aperture: enabled = True
+16.9439 	DATA 	Keypress: 5
+17.0749 	EXP 	unnamed ImageStim: ori = 0
+17.0749 	EXP 	unnamed ImageStim: ori = 0
+17.0749 	EXP 	unnamed Aperture: enabled = True
+17.9794 	DATA 	Keypress: 5
+18.1104 	EXP 	unnamed ImageStim: ori = 0
+18.1104 	EXP 	unnamed ImageStim: ori = 0
+18.1104 	EXP 	unnamed Aperture: enabled = True
+18.6202 	DATA 	Keypress: 5
+18.7509 	EXP 	unnamed ImageStim: ori = 0
+18.7509 	EXP 	unnamed ImageStim: ori = 0
+18.7509 	EXP 	unnamed Aperture: enabled = True
+19.2548 	DATA 	Keypress: 5
+19.3857 	EXP 	unnamed ImageStim: ori = 0
+19.3857 	EXP 	unnamed ImageStim: ori = 0
+19.3857 	EXP 	unnamed Aperture: enabled = True
+19.8744 	DATA 	Keypress: 5
+20.0050 	EXP 	unnamed ImageStim: ori = 0
+20.0050 	EXP 	unnamed ImageStim: ori = 0
+20.0050 	EXP 	unnamed Aperture: enabled = True
+20.5188 	DATA 	Keypress: 5
+20.6511 	EXP 	unnamed ImageStim: ori = 0
+20.6511 	EXP 	unnamed ImageStim: ori = 0
+20.6511 	EXP 	unnamed Aperture: enabled = True
+22.4627 	DATA 	Keypress: 5
+22.5934 	EXP 	unnamed ImageStim: ori = 0
+22.5934 	EXP 	unnamed ImageStim: ori = 0
+22.5934 	EXP 	unnamed Aperture: enabled = True
+24.0534 	DATA 	Keypress: escape
+24.1887 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.

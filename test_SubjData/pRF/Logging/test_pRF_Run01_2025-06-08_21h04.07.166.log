@@ -1,0 +1,247 @@
+MonitorDistance=128.7cm
+MonitorWidth=42.8cm
+PixelWidth=1920.0
+PixelHeight=1200.0
+RefreshRate=60.0
+FrameDuration=0.016666666666666666
+9.4211 	INFO 	Loaded monitor calibration from ['2025_01_10 07:56']
+9.9894 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002A601AC8E50>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002A601AC8DF0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-0.5, -0.5, -0.5]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002A602145910>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1200]), stencilBits=8, stereo=False, title='PsychoPy', units='deg', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.9895 	EXP 	window1: backgroundImage = None
+9.9895 	EXP 	window1: backgroundFit = 'cover'
+10.1577 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+10.1577 	EXP 	window1: recordFrameIntervals = False
+10.3231 	EXP 	window1: recordFrameIntervals = True
+10.5904 	EXP 	Screen (0) actual frame rate measured at 60.54Hz
+10.5904 	EXP 	window1: recordFrameIntervals = False
+0.0026 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, image=Image(...), interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([10. ,  0.9]), texRes=128, units='deg', win=Window(...))
+0.0037 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, image=Image(...), interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([10. ,  0.9]), texRes=128, units='deg', win=Window(...))
+0.0051 	EXP 	Created unnamed Aperture = Aperture(__class__=<class 'psychopy.visual.aperture.Aperture'>, anchor=('center', 'center'), autoLog=True, depth=0, inverted=False, nVert=UNKNOWN, name='unnamed Aperture', ori=0, pos=array([0., 0.]), shape=UNKNOWN, size=array([10., 10.]), units='deg', win=Window(...))
+0.0499 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0. , 1.5]), rgb=UNKNOWN, text=str(...), units='deg', win=Window(...), wrapWidth=15.0)
+0.0541 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0. , 1.5]), rgb=UNKNOWN, text=str(...), units='deg', win=Window(...), wrapWidth=15.0)
+0.0593 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Please rest until further instructions', units='deg', win=Window(...), wrapWidth=15.0)
+0.0990 	EXP 	window1: units = 'pix'
+0.0990 	INFO 	Mouse: using default window
+0.1719 	INFO 	keyboard.Keyboard is using ptb backend.
+1.4981 	DATA 	Keypress: return
+1.5072 	EXP 	unnamed Aperture: enabled = True
+354.4154 	DATA 	Keypress: 1
+383.4386 	DATA 	Keypress: 5
+384.2850 	DATA 	Keypress: 5
+384.8361 	DATA 	Keypress: 5
+385.3038 	DATA 	Keypress: 5
+385.7553 	DATA 	Keypress: 5
+386.2066 	DATA 	Keypress: 5
+386.6411 	DATA 	Keypress: 5
+387.0925 	DATA 	Keypress: 5
+387.5453 	DATA 	Keypress: 5
+388.0617 	DATA 	Keypress: 5
+388.4966 	DATA 	Keypress: 5
+388.5318 	EXP 	unnamed ImageStim: ori = 0
+388.5318 	EXP 	unnamed ImageStim: ori = 0
+388.5318 	EXP 	unnamed Aperture: enabled = True
+389.3779 	DATA 	Keypress: 5
+389.5097 	EXP 	unnamed ImageStim: ori = 0
+389.5097 	EXP 	unnamed ImageStim: ori = 0
+389.5097 	EXP 	unnamed Aperture: enabled = True
+390.4301 	DATA 	Keypress: 5
+390.5622 	EXP 	unnamed ImageStim: ori = 0
+390.5622 	EXP 	unnamed ImageStim: ori = 0
+390.5622 	EXP 	unnamed Aperture: enabled = True
+391.4427 	DATA 	Keypress: 5
+391.6190 	EXP 	unnamed ImageStim: ori = 0
+391.6190 	EXP 	unnamed ImageStim: ori = 0
+391.6190 	EXP 	unnamed Aperture: enabled = True
+392.4736 	DATA 	Keypress: 5
+392.6040 	EXP 	unnamed ImageStim: ori = 0
+392.6040 	EXP 	unnamed ImageStim: ori = 0
+392.6040 	EXP 	unnamed Aperture: enabled = True
+393.5769 	DATA 	Keypress: 5
+393.7086 	EXP 	unnamed ImageStim: ori = 0
+393.7086 	EXP 	unnamed ImageStim: ori = 0
+393.7086 	EXP 	unnamed Aperture: enabled = True
+394.6606 	DATA 	Keypress: 5
+394.7916 	EXP 	unnamed ImageStim: ori = 0
+394.7916 	EXP 	unnamed ImageStim: ori = 0
+394.7916 	EXP 	unnamed Aperture: enabled = True
+395.7957 	DATA 	Keypress: 5
+395.9257 	EXP 	unnamed ImageStim: ori = 0
+395.9257 	EXP 	unnamed ImageStim: ori = 0
+395.9257 	EXP 	unnamed Aperture: enabled = True
+396.8069 	DATA 	Keypress: 5
+396.9372 	EXP 	unnamed ImageStim: ori = 0
+396.9372 	EXP 	unnamed ImageStim: ori = 0
+396.9372 	EXP 	unnamed Aperture: enabled = True
+397.7468 	DATA 	Keypress: 5
+397.9301 	EXP 	unnamed ImageStim: ori = 0
+397.9301 	EXP 	unnamed ImageStim: ori = 0
+397.9301 	EXP 	unnamed Aperture: enabled = True
+398.7445 	DATA 	Keypress: 5
+398.9320 	EXP 	unnamed ImageStim: ori = 0
+398.9320 	EXP 	unnamed ImageStim: ori = 0
+398.9320 	EXP 	unnamed Aperture: enabled = True
+399.6214 	DATA 	Keypress: 5
+399.8671 	EXP 	unnamed ImageStim: ori = 0
+399.8671 	EXP 	unnamed ImageStim: ori = 0
+399.8671 	EXP 	unnamed Aperture: enabled = True
+400.5198 	DATA 	Keypress: 5
+400.7021 	EXP 	unnamed ImageStim: ori = 45
+400.7021 	EXP 	unnamed ImageStim: ori = 45
+400.7021 	EXP 	unnamed Aperture: enabled = True
+401.4828 	DATA 	Keypress: 5
+401.6704 	EXP 	unnamed ImageStim: ori = 45
+401.6704 	EXP 	unnamed ImageStim: ori = 45
+401.6704 	EXP 	unnamed Aperture: enabled = True
+402.4221 	DATA 	Keypress: 5
+402.5537 	EXP 	unnamed ImageStim: ori = 45
+402.5537 	EXP 	unnamed ImageStim: ori = 45
+402.5537 	EXP 	unnamed Aperture: enabled = True
+403.2802 	DATA 	Keypress: 5
+403.4099 	EXP 	unnamed ImageStim: ori = 45
+403.4099 	EXP 	unnamed ImageStim: ori = 45
+403.4099 	EXP 	unnamed Aperture: enabled = True
+404.2236 	DATA 	Keypress: 5
+404.4090 	EXP 	unnamed ImageStim: ori = 45
+404.4090 	EXP 	unnamed ImageStim: ori = 45
+404.4090 	EXP 	unnamed Aperture: enabled = True
+405.2804 	DATA 	Keypress: 5
+405.4606 	EXP 	unnamed ImageStim: ori = 45
+405.4606 	EXP 	unnamed ImageStim: ori = 45
+405.4606 	EXP 	unnamed Aperture: enabled = True
+406.3339 	DATA 	Keypress: 5
+406.5126 	EXP 	unnamed ImageStim: ori = 45
+406.5126 	EXP 	unnamed ImageStim: ori = 45
+406.5126 	EXP 	unnamed Aperture: enabled = True
+407.5252 	DATA 	Keypress: 5
+407.6964 	EXP 	unnamed ImageStim: ori = 45
+407.6964 	EXP 	unnamed ImageStim: ori = 45
+407.6964 	EXP 	unnamed Aperture: enabled = True
+408.6274 	DATA 	Keypress: 5
+408.7601 	EXP 	unnamed ImageStim: ori = 45
+408.7601 	EXP 	unnamed ImageStim: ori = 45
+408.7601 	EXP 	unnamed Aperture: enabled = True
+409.6935 	DATA 	Keypress: 5
+409.8248 	EXP 	unnamed ImageStim: ori = 45
+409.8248 	EXP 	unnamed ImageStim: ori = 45
+409.8248 	EXP 	unnamed Aperture: enabled = True
+410.7874 	DATA 	Keypress: 5
+410.9194 	EXP 	unnamed ImageStim: ori = 45
+410.9194 	EXP 	unnamed ImageStim: ori = 45
+410.9194 	EXP 	unnamed Aperture: enabled = True
+411.9576 	DATA 	Keypress: 5
+412.1209 	EXP 	unnamed ImageStim: ori = 45
+412.1209 	EXP 	unnamed ImageStim: ori = 45
+412.1209 	EXP 	unnamed Aperture: enabled = True
+413.0245 	DATA 	Keypress: 5
+413.1558 	EXP 	unnamed ImageStim: ori = 90
+413.1558 	EXP 	unnamed ImageStim: ori = 90
+413.1558 	EXP 	unnamed Aperture: enabled = True
+414.1190 	DATA 	Keypress: 5
+414.2508 	EXP 	unnamed ImageStim: ori = 90
+414.2508 	EXP 	unnamed ImageStim: ori = 90
+414.2508 	EXP 	unnamed Aperture: enabled = True
+415.1631 	DATA 	Keypress: 5
+415.2937 	EXP 	unnamed ImageStim: ori = 90
+415.2937 	EXP 	unnamed ImageStim: ori = 90
+415.2937 	EXP 	unnamed Aperture: enabled = True
+416.2331 	DATA 	Keypress: 5
+416.4139 	EXP 	unnamed ImageStim: ori = 90
+416.4139 	EXP 	unnamed ImageStim: ori = 90
+416.4139 	EXP 	unnamed Aperture: enabled = True
+417.2068 	DATA 	Keypress: 5
+417.3388 	EXP 	unnamed ImageStim: ori = 90
+417.3388 	EXP 	unnamed ImageStim: ori = 90
+417.3388 	EXP 	unnamed Aperture: enabled = True
+418.2065 	DATA 	Keypress: 5
+418.3384 	EXP 	unnamed ImageStim: ori = 90
+418.3384 	EXP 	unnamed ImageStim: ori = 90
+418.3384 	EXP 	unnamed Aperture: enabled = True
+419.1033 	DATA 	Keypress: 5
+419.2677 	EXP 	unnamed ImageStim: ori = 90
+419.2677 	EXP 	unnamed ImageStim: ori = 90
+419.2677 	EXP 	unnamed Aperture: enabled = True
+420.0510 	DATA 	Keypress: 5
+420.2373 	EXP 	unnamed ImageStim: ori = 90
+420.2373 	EXP 	unnamed ImageStim: ori = 90
+420.2373 	EXP 	unnamed Aperture: enabled = True
+420.8851 	DATA 	Keypress: 5
+421.0725 	EXP 	unnamed ImageStim: ori = 90
+421.0725 	EXP 	unnamed ImageStim: ori = 90
+421.0725 	EXP 	unnamed Aperture: enabled = True
+421.7537 	DATA 	Keypress: 5
+421.9405 	EXP 	unnamed ImageStim: ori = 90
+421.9405 	EXP 	unnamed ImageStim: ori = 90
+421.9405 	EXP 	unnamed Aperture: enabled = True
+422.6102 	DATA 	Keypress: 5
+422.7921 	EXP 	unnamed ImageStim: ori = 90
+422.7921 	EXP 	unnamed ImageStim: ori = 90
+422.7921 	EXP 	unnamed Aperture: enabled = True
+423.5105 	DATA 	Keypress: 5
+423.6758 	EXP 	unnamed ImageStim: ori = 90
+423.6758 	EXP 	unnamed ImageStim: ori = 90
+423.6758 	EXP 	unnamed Aperture: enabled = True
+424.4069 	DATA 	Keypress: 5
+424.5774 	EXP 	unnamed ImageStim: ori = 135
+424.5774 	EXP 	unnamed ImageStim: ori = 135
+424.5774 	EXP 	unnamed Aperture: enabled = True
+425.2069 	DATA 	Keypress: 5
+425.3788 	EXP 	unnamed ImageStim: ori = 135
+425.3788 	EXP 	unnamed ImageStim: ori = 135
+425.3788 	EXP 	unnamed Aperture: enabled = True
+426.0244 	DATA 	Keypress: 5
+426.1968 	EXP 	unnamed ImageStim: ori = 135
+426.1968 	EXP 	unnamed ImageStim: ori = 135
+426.1968 	EXP 	unnamed Aperture: enabled = True
+426.8620 	DATA 	Keypress: 5
+427.0317 	EXP 	unnamed ImageStim: ori = 135
+427.0317 	EXP 	unnamed ImageStim: ori = 135
+427.0317 	EXP 	unnamed Aperture: enabled = True
+427.6704 	DATA 	Keypress: 5
+427.8007 	EXP 	unnamed ImageStim: ori = 135
+427.8007 	EXP 	unnamed ImageStim: ori = 135
+427.8007 	EXP 	unnamed Aperture: enabled = True
+428.4593 	DATA 	Keypress: 5
+428.6359 	EXP 	unnamed ImageStim: ori = 135
+428.6359 	EXP 	unnamed ImageStim: ori = 135
+428.6359 	EXP 	unnamed Aperture: enabled = True
+429.2709 	DATA 	Keypress: 5
+429.4022 	EXP 	unnamed ImageStim: ori = 135
+429.4022 	EXP 	unnamed ImageStim: ori = 135
+429.4022 	EXP 	unnamed Aperture: enabled = True
+430.0686 	DATA 	Keypress: 5
+430.2376 	EXP 	unnamed ImageStim: ori = 135
+430.2376 	EXP 	unnamed ImageStim: ori = 135
+430.2376 	EXP 	unnamed Aperture: enabled = True
+430.9528 	DATA 	Keypress: 5
+431.0824 	EXP 	unnamed ImageStim: ori = 135
+431.0824 	EXP 	unnamed ImageStim: ori = 135
+431.0824 	EXP 	unnamed Aperture: enabled = True
+431.7711 	DATA 	Keypress: 5
+431.9585 	EXP 	unnamed ImageStim: ori = 135
+431.9585 	EXP 	unnamed ImageStim: ori = 135
+431.9585 	EXP 	unnamed Aperture: enabled = True
+432.5778 	DATA 	Keypress: 5
+432.7097 	EXP 	unnamed ImageStim: ori = 135
+432.7097 	EXP 	unnamed ImageStim: ori = 135
+432.7097 	EXP 	unnamed Aperture: enabled = True
+433.4911 	DATA 	Keypress: 5
+433.6604 	EXP 	unnamed ImageStim: ori = 135
+433.6604 	EXP 	unnamed ImageStim: ori = 135
+433.6604 	EXP 	unnamed Aperture: enabled = True
+434.3017 	DATA 	Keypress: 5
+435.0718 	DATA 	Keypress: 5
+435.7404 	DATA 	Keypress: 5
+436.0908 	DATA 	Keypress: 5
+436.4265 	DATA 	Keypress: 5
+436.8263 	DATA 	Keypress: 5
+437.2104 	DATA 	Keypress: 5
+437.5798 	DATA 	Keypress: 5
+437.9454 	DATA 	Keypress: 5
+438.3305 	DATA 	Keypress: 5
+438.6814 	DATA 	Keypress: 5
+439.0842 	DATA 	Keypress: 5
+439.4335 	DATA 	Keypress: 5
+439.8343 	DATA 	Keypress: 5
+440.2203 	DATA 	Keypress: 5
+440.6031 	DATA 	Keypress: 5
+441.0041 	DATA 	Keypress: 5
+441.6150 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.

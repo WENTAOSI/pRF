@@ -725,9 +725,14 @@ for step in stim_schedule:
     first_run = False
 
 # End fixation 
-show_fixation_until_triggers(myWin, dotFix, num_triggers=16,
+show_fixation_until_triggers(myWin, dotFix, num_triggers=16-1, # trigger at the end of each volume should -1 other wise it will be 17
                              save_frames=(expInfo['mode'] == 'outputMovie'),
                              outFolder=PNGFolderName)
+# Make up for the last sec
+dotFix.draw()
+myWin.flip()
+core.wait(1.0)
+
 # Byebye
 # EYETRACKER CLOSE DISPLAY AND SAVE EDF
 os.chdir(parentDir)

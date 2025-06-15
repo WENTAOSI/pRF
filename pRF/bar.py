@@ -80,7 +80,7 @@ if expInfo['display'] == 'DBIC':
     distanceMon = 128.7  
     widthMon = 42.8 
     PixW = 1920.0 
-    PixH = 1200.0  
+    PixH = 1080.0  
 elif expInfo['display'] == 'TaylorMacbookPro':
     distanceMon = 50 
     widthMon = 30.41 
@@ -386,6 +386,8 @@ def show_fixation_until_triggers(win, fix_stim, num_triggers=10, save_frames=Fal
 # primary display device on macOS. If have an external monitor, set this
 # variable True if you choose to "Optimize for Built-in Retina Display"
 # in the Displays preference settings.
+
+aperture.enabled = False  # globally close masking for tracker calibration
 use_retina = False
 # Set this variable to True to run the script in "Dummy Mode"
 if expInfo['eyelink'] == 'True':
@@ -485,7 +487,7 @@ el_tracker.sendCommand("link_sample_data = %s" % link_sample_flags)
 # if eyelink_ver > 2:
 #     el_tracker.sendCommand("sample_rate 1000")
 # Choose a calibration type, H3, HV3, HV5, HV13 (HV = horizontal/vertical),
-el_tracker.sendCommand("calibration_type = HV9")
+el_tracker.sendCommand("calibration_type = HV5")
 
 # Set a gamepad button to accept calibration/drift check target
 # You need a supported gamepad/button box that is connected to the Host PC

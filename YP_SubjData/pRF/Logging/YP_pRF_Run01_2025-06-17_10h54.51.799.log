@@ -1,0 +1,2532 @@
+MonitorDistance=128.7cm
+MonitorWidth=42.8cm
+PixelWidth=1920.0
+PixelHeight=1080.0
+RefreshRate=60.0
+FrameDuration=0.016666666666666666
+15.1935 	INFO 	Loaded monitor calibration from ['2025_01_10 07:56']
+16.1317 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000205ECA2F070>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000205ECA29FD0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-0.5, -0.5, -0.5]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000205EE992B20>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=8, stereo=False, title='PsychoPy', units='deg', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+16.1317 	EXP 	window1: backgroundImage = None
+16.1317 	EXP 	window1: backgroundFit = 'cover'
+16.2990 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+16.2990 	EXP 	window1: recordFrameIntervals = False
+16.4643 	EXP 	window1: recordFrameIntervals = True
+16.6973 	EXP 	Screen (0) actual frame rate measured at 60.03Hz
+16.6973 	EXP 	window1: recordFrameIntervals = False
+0.0040 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, image=Image(...), interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([10. ,  0.9]), texRes=128, units='deg', win=Window(...))
+0.0057 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, image=Image(...), interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([10. ,  0.9]), texRes=128, units='deg', win=Window(...))
+0.0088 	EXP 	Created unnamed Aperture = Aperture(__class__=<class 'psychopy.visual.aperture.Aperture'>, anchor=('center', 'center'), autoLog=True, depth=0, inverted=False, nVert=UNKNOWN, name='unnamed Aperture', ori=0, pos=array([0., 0.]), shape=UNKNOWN, size=array([10., 10.]), units='deg', win=Window(...))
+0.0920 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0. , 1.5]), rgb=UNKNOWN, text=str(...), units='deg', win=Window(...), wrapWidth=15.0)
+0.1031 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0. , 1.5]), rgb=UNKNOWN, text=str(...), units='deg', win=Window(...), wrapWidth=15.0)
+0.1117 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=0.5, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Please rest until further instructions', units='deg', win=Window(...), wrapWidth=15.0)
+0.1529 	EXP 	window1: units = 'pix'
+0.1529 	INFO 	Mouse: using default window
+0.3858 	INFO 	keyboard.Keyboard is using ptb backend.
+0.4219 	EXP 	unnamed ImageStim: image = <PIL.Image.Image image mode=L size=32x3 at 0x205EEC9BF70>
+0.4219 	EXP 	unnamed ImageStim: image = <PIL.Image.Image image mode=L size=32x3 at 0x205EEC9BF70>
+0.4219 	EXP 	unnamed Aperture: enabled = False
+2.9797 	DATA 	Keypress: return
+2.9990 	EXP 	unnamed Aperture: enabled = True
+4.2074 	DATA 	Keypress: 1
+5.6285 	DATA 	Keypress: 5
+6.1668 	DATA 	Keypress: 5
+6.1872 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_000.png
+6.7817 	DATA 	Keypress: 5
+6.7997 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_001.png
+7.3838 	DATA 	Keypress: 5
+7.4024 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_002.png
+8.0002 	DATA 	Keypress: 5
+8.0190 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_003.png
+8.6003 	DATA 	Keypress: 5
+8.6205 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_004.png
+9.2165 	DATA 	Keypress: 5
+9.2350 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_005.png
+9.7830 	DATA 	Keypress: 5
+9.8042 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_006.png
+10.3663 	DATA 	Keypress: 5
+10.3853 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_007.png
+10.9664 	DATA 	Keypress: 5
+10.9869 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_008.png
+11.5664 	DATA 	Keypress: 5
+11.5862 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_009.png
+12.1499 	DATA 	Keypress: 5
+12.1707 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_010.png
+12.7499 	DATA 	Keypress: 5
+12.7692 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_011.png
+13.3321 	DATA 	Keypress: 5
+13.3503 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_012.png
+13.8988 	DATA 	Keypress: 5
+13.9174 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_013.png
+13.9980 	EXP 	unnamed ImageStim: ori = 0
+13.9980 	EXP 	unnamed ImageStim: ori = 0
+13.9980 	EXP 	unnamed Aperture: enabled = True
+14.7912 	DATA 	Keypress: 5
+14.8116 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_014.png
+14.9902 	EXP 	unnamed ImageStim: ori = 0
+14.9902 	EXP 	unnamed ImageStim: ori = 0
+14.9902 	EXP 	unnamed Aperture: enabled = True
+15.5784 	DATA 	Keypress: 5
+15.5987 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_015.png
+15.7680 	EXP 	unnamed ImageStim: ori = 0
+15.7680 	EXP 	unnamed ImageStim: ori = 0
+15.7680 	EXP 	unnamed Aperture: enabled = True
+16.5512 	DATA 	Keypress: 5
+16.5702 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_016.png
+16.7480 	EXP 	unnamed ImageStim: ori = 0
+16.7480 	EXP 	unnamed ImageStim: ori = 0
+16.7480 	EXP 	unnamed Aperture: enabled = True
+17.2891 	DATA 	Keypress: 5
+17.3083 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_017.png
+17.4971 	EXP 	unnamed ImageStim: ori = 0
+17.4971 	EXP 	unnamed ImageStim: ori = 0
+17.4971 	EXP 	unnamed Aperture: enabled = True
+18.0375 	DATA 	Keypress: 5
+18.0554 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_018.png
+18.2332 	EXP 	unnamed ImageStim: ori = 0
+18.2332 	EXP 	unnamed ImageStim: ori = 0
+18.2332 	EXP 	unnamed Aperture: enabled = True
+18.8043 	DATA 	Keypress: 5
+18.8262 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_019.png
+19.0043 	EXP 	unnamed ImageStim: ori = 0
+19.0043 	EXP 	unnamed ImageStim: ori = 0
+19.0043 	EXP 	unnamed Aperture: enabled = True
+19.6606 	DATA 	Keypress: 5
+19.6789 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_020.png
+19.8558 	EXP 	unnamed ImageStim: ori = 0
+19.8558 	EXP 	unnamed ImageStim: ori = 0
+19.8558 	EXP 	unnamed Aperture: enabled = True
+20.4932 	DATA 	Keypress: 5
+20.5114 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_021.png
+20.6874 	EXP 	unnamed ImageStim: ori = 0
+20.6874 	EXP 	unnamed ImageStim: ori = 0
+20.6874 	EXP 	unnamed Aperture: enabled = True
+21.1535 	DATA 	Keypress: 5
+21.1735 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_022.png
+21.3527 	EXP 	unnamed ImageStim: ori = 0
+21.3527 	EXP 	unnamed ImageStim: ori = 0
+21.3527 	EXP 	unnamed Aperture: enabled = True
+21.8932 	DATA 	Keypress: 5
+21.9112 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_023.png
+22.0928 	EXP 	unnamed ImageStim: ori = 0
+22.0928 	EXP 	unnamed ImageStim: ori = 0
+22.0928 	EXP 	unnamed Aperture: enabled = True
+22.6954 	DATA 	Keypress: 5
+22.7155 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_024.png
+22.8949 	EXP 	unnamed ImageStim: ori = 0
+22.8949 	EXP 	unnamed ImageStim: ori = 0
+22.8949 	EXP 	unnamed Aperture: enabled = True
+23.6032 	DATA 	Keypress: 5
+23.6225 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_025.png
+24.7650 	DATA 	Keypress: 5
+24.7851 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_026.png
+25.4652 	DATA 	Keypress: 5
+25.4846 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_027.png
+26.0983 	DATA 	Keypress: 5
+26.1163 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_028.png
+26.7986 	DATA 	Keypress: 5
+26.8173 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_029.png
+27.0120 	EXP 	unnamed ImageStim: ori = 45
+27.0120 	EXP 	unnamed ImageStim: ori = 45
+27.0120 	EXP 	unnamed Aperture: enabled = True
+27.6886 	DATA 	Keypress: 5
+27.7090 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_030.png
+27.8966 	EXP 	unnamed ImageStim: ori = 45
+27.8966 	EXP 	unnamed ImageStim: ori = 45
+27.8966 	EXP 	unnamed Aperture: enabled = True
+28.4875 	DATA 	Keypress: 5
+28.5084 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_031.png
+28.6987 	EXP 	unnamed ImageStim: ori = 45
+28.6987 	EXP 	unnamed ImageStim: ori = 45
+28.6987 	EXP 	unnamed Aperture: enabled = True
+29.3476 	DATA 	Keypress: 5
+29.3670 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_032.png
+29.5523 	EXP 	unnamed ImageStim: ori = 45
+29.5523 	EXP 	unnamed ImageStim: ori = 45
+29.5523 	EXP 	unnamed Aperture: enabled = True
+30.0663 	DATA 	Keypress: 5
+30.0849 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_033.png
+30.2665 	EXP 	unnamed ImageStim: ori = 45
+30.2665 	EXP 	unnamed ImageStim: ori = 45
+30.2665 	EXP 	unnamed Aperture: enabled = True
+30.8234 	DATA 	Keypress: 5
+30.8440 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_034.png
+31.0349 	EXP 	unnamed ImageStim: ori = 45
+31.0349 	EXP 	unnamed ImageStim: ori = 45
+31.0349 	EXP 	unnamed Aperture: enabled = True
+31.5925 	DATA 	Keypress: 5
+31.6137 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_035.png
+31.7962 	EXP 	unnamed ImageStim: ori = 45
+31.7962 	EXP 	unnamed ImageStim: ori = 45
+31.7962 	EXP 	unnamed Aperture: enabled = True
+32.2938 	DATA 	Keypress: 5
+32.3292 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_036.png
+32.5077 	EXP 	unnamed ImageStim: ori = 45
+32.5077 	EXP 	unnamed ImageStim: ori = 45
+32.5077 	EXP 	unnamed Aperture: enabled = True
+32.9376 	DATA 	Keypress: 5
+32.9586 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_037.png
+33.1477 	EXP 	unnamed ImageStim: ori = 45
+33.1477 	EXP 	unnamed ImageStim: ori = 45
+33.1477 	EXP 	unnamed Aperture: enabled = True
+33.5832 	DATA 	Keypress: 5
+33.6042 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_038.png
+33.7940 	EXP 	unnamed ImageStim: ori = 45
+33.7940 	EXP 	unnamed ImageStim: ori = 45
+33.7940 	EXP 	unnamed Aperture: enabled = True
+34.2130 	DATA 	Keypress: 5
+34.2328 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_039.png
+34.4195 	EXP 	unnamed ImageStim: ori = 45
+34.4195 	EXP 	unnamed ImageStim: ori = 45
+34.4195 	EXP 	unnamed Aperture: enabled = True
+34.9041 	DATA 	Keypress: 5
+34.9248 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_040.png
+35.1066 	EXP 	unnamed ImageStim: ori = 45
+35.1066 	EXP 	unnamed ImageStim: ori = 45
+35.1066 	EXP 	unnamed Aperture: enabled = True
+35.5306 	DATA 	Keypress: 5
+35.5494 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_041.png
+36.4128 	DATA 	Keypress: 5
+36.4318 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_042.png
+37.0982 	DATA 	Keypress: 5
+37.1189 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_043.png
+37.7642 	DATA 	Keypress: 5
+37.7829 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_044.png
+38.4296 	DATA 	Keypress: 5
+38.4493 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_045.png
+38.6430 	EXP 	unnamed ImageStim: ori = 90
+38.6430 	EXP 	unnamed ImageStim: ori = 90
+38.6430 	EXP 	unnamed Aperture: enabled = True
+39.1189 	DATA 	Keypress: 5
+39.1403 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_046.png
+39.3193 	EXP 	unnamed ImageStim: ori = 90
+39.3193 	EXP 	unnamed ImageStim: ori = 90
+39.3193 	EXP 	unnamed Aperture: enabled = True
+39.7711 	DATA 	Keypress: 5
+39.7916 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_047.png
+39.9736 	EXP 	unnamed ImageStim: ori = 90
+39.9736 	EXP 	unnamed ImageStim: ori = 90
+39.9736 	EXP 	unnamed Aperture: enabled = True
+40.4372 	DATA 	Keypress: 5
+40.4578 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_048.png
+40.6358 	EXP 	unnamed ImageStim: ori = 90
+40.6358 	EXP 	unnamed ImageStim: ori = 90
+40.6358 	EXP 	unnamed Aperture: enabled = True
+41.0764 	DATA 	Keypress: 5
+41.0976 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_049.png
+41.2747 	EXP 	unnamed ImageStim: ori = 90
+41.2747 	EXP 	unnamed ImageStim: ori = 90
+41.2747 	EXP 	unnamed Aperture: enabled = True
+41.7434 	DATA 	Keypress: 5
+41.7668 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_050.png
+41.9454 	EXP 	unnamed ImageStim: ori = 90
+41.9454 	EXP 	unnamed ImageStim: ori = 90
+41.9454 	EXP 	unnamed Aperture: enabled = True
+42.3502 	DATA 	Keypress: 5
+42.3702 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_051.png
+42.5476 	EXP 	unnamed ImageStim: ori = 90
+42.5476 	EXP 	unnamed ImageStim: ori = 90
+42.5476 	EXP 	unnamed Aperture: enabled = True
+42.9750 	DATA 	Keypress: 5
+42.9962 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_052.png
+43.1754 	EXP 	unnamed ImageStim: ori = 90
+43.1754 	EXP 	unnamed ImageStim: ori = 90
+43.1754 	EXP 	unnamed Aperture: enabled = True
+43.6014 	DATA 	Keypress: 5
+43.6210 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_053.png
+43.8009 	EXP 	unnamed ImageStim: ori = 90
+43.8009 	EXP 	unnamed ImageStim: ori = 90
+43.8009 	EXP 	unnamed Aperture: enabled = True
+44.2504 	DATA 	Keypress: 5
+44.2726 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_054.png
+44.4509 	EXP 	unnamed ImageStim: ori = 90
+44.4509 	EXP 	unnamed ImageStim: ori = 90
+44.4509 	EXP 	unnamed Aperture: enabled = True
+44.8515 	DATA 	Keypress: 5
+44.8719 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_055.png
+45.0488 	EXP 	unnamed ImageStim: ori = 90
+45.0488 	EXP 	unnamed ImageStim: ori = 90
+45.0488 	EXP 	unnamed Aperture: enabled = True
+45.4571 	DATA 	Keypress: 5
+45.4760 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_056.png
+45.6642 	EXP 	unnamed ImageStim: ori = 90
+45.6642 	EXP 	unnamed ImageStim: ori = 90
+45.6642 	EXP 	unnamed Aperture: enabled = True
+46.0669 	DATA 	Keypress: 5
+46.0856 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_057.png
+46.7482 	DATA 	Keypress: 5
+46.7679 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_058.png
+47.3465 	DATA 	Keypress: 5
+47.3647 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_059.png
+47.9638 	DATA 	Keypress: 5
+47.9826 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_060.png
+48.6138 	DATA 	Keypress: 5
+48.6338 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_061.png
+48.8257 	EXP 	unnamed ImageStim: ori = 135
+48.8257 	EXP 	unnamed ImageStim: ori = 135
+48.8257 	EXP 	unnamed Aperture: enabled = True
+49.3433 	DATA 	Keypress: 5
+49.3629 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_062.png
+49.5500 	EXP 	unnamed ImageStim: ori = 135
+49.5500 	EXP 	unnamed ImageStim: ori = 135
+49.5500 	EXP 	unnamed Aperture: enabled = True
+49.9506 	DATA 	Keypress: 5
+49.9702 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_063.png
+50.1558 	EXP 	unnamed ImageStim: ori = 135
+50.1558 	EXP 	unnamed ImageStim: ori = 135
+50.1558 	EXP 	unnamed Aperture: enabled = True
+50.5239 	DATA 	Keypress: 5
+50.5459 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_064.png
+50.7371 	EXP 	unnamed ImageStim: ori = 135
+50.7371 	EXP 	unnamed ImageStim: ori = 135
+50.7371 	EXP 	unnamed Aperture: enabled = True
+51.3855 	DATA 	Keypress: 5
+51.4035 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_065.png
+51.5874 	EXP 	unnamed ImageStim: ori = 135
+51.5874 	EXP 	unnamed ImageStim: ori = 135
+51.5874 	EXP 	unnamed Aperture: enabled = True
+52.2005 	DATA 	Keypress: 5
+52.2214 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_066.png
+52.4030 	EXP 	unnamed ImageStim: ori = 135
+52.4030 	EXP 	unnamed ImageStim: ori = 135
+52.4030 	EXP 	unnamed Aperture: enabled = True
+52.9295 	DATA 	Keypress: 5
+52.9484 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_067.png
+53.1369 	EXP 	unnamed ImageStim: ori = 135
+53.1369 	EXP 	unnamed ImageStim: ori = 135
+53.1369 	EXP 	unnamed Aperture: enabled = True
+53.4696 	DATA 	Keypress: 5
+53.4898 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_068.png
+53.6819 	EXP 	unnamed ImageStim: ori = 135
+53.6819 	EXP 	unnamed ImageStim: ori = 135
+53.6819 	EXP 	unnamed Aperture: enabled = True
+54.2911 	DATA 	Keypress: 5
+54.3126 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_069.png
+54.5002 	EXP 	unnamed ImageStim: ori = 135
+54.5002 	EXP 	unnamed ImageStim: ori = 135
+54.5002 	EXP 	unnamed Aperture: enabled = True
+54.8353 	DATA 	Keypress: 5
+54.8559 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_070.png
+55.0454 	EXP 	unnamed ImageStim: ori = 135
+55.0454 	EXP 	unnamed ImageStim: ori = 135
+55.0454 	EXP 	unnamed Aperture: enabled = True
+55.3943 	DATA 	Keypress: 5
+55.4150 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_071.png
+55.6029 	EXP 	unnamed ImageStim: ori = 135
+55.6029 	EXP 	unnamed ImageStim: ori = 135
+55.6029 	EXP 	unnamed Aperture: enabled = True
+55.9019 	DATA 	Keypress: 5
+55.9227 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_072.png
+56.1125 	EXP 	unnamed ImageStim: ori = 135
+56.1125 	EXP 	unnamed ImageStim: ori = 135
+56.1125 	EXP 	unnamed Aperture: enabled = True
+56.4947 	DATA 	Keypress: 5
+56.5133 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_073.png
+57.1958 	DATA 	Keypress: 5
+57.2143 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_074.png
+57.7633 	DATA 	Keypress: 5
+57.7824 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_075.png
+58.3301 	DATA 	Keypress: 5
+58.3490 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_076.png
+58.8966 	DATA 	Keypress: 5
+58.9146 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_077.png
+59.1087 	EXP 	unnamed ImageStim: ori = 0
+59.1087 	EXP 	unnamed ImageStim: ori = 0
+59.1087 	EXP 	unnamed Aperture: enabled = True
+59.4502 	DATA 	Keypress: 5
+59.4697 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_078.png
+59.6478 	EXP 	unnamed ImageStim: ori = 0
+59.6478 	EXP 	unnamed ImageStim: ori = 0
+59.6478 	EXP 	unnamed Aperture: enabled = True
+60.0289 	DATA 	Keypress: 5
+60.0500 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_079.png
+60.2276 	EXP 	unnamed ImageStim: ori = 0
+60.2276 	EXP 	unnamed ImageStim: ori = 0
+60.2276 	EXP 	unnamed Aperture: enabled = True
+60.5910 	DATA 	Keypress: 5
+60.6114 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_080.png
+60.7910 	EXP 	unnamed ImageStim: ori = 0
+60.7910 	EXP 	unnamed ImageStim: ori = 0
+60.7910 	EXP 	unnamed Aperture: enabled = True
+61.1583 	DATA 	Keypress: 5
+61.1794 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_081.png
+61.3598 	EXP 	unnamed ImageStim: ori = 0
+61.3598 	EXP 	unnamed ImageStim: ori = 0
+61.3598 	EXP 	unnamed Aperture: enabled = True
+61.7231 	DATA 	Keypress: 5
+61.7448 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_082.png
+61.9204 	EXP 	unnamed ImageStim: ori = 0
+61.9204 	EXP 	unnamed ImageStim: ori = 0
+61.9204 	EXP 	unnamed Aperture: enabled = True
+62.2796 	DATA 	Keypress: 5
+62.3005 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_083.png
+62.4782 	EXP 	unnamed ImageStim: ori = 0
+62.4782 	EXP 	unnamed ImageStim: ori = 0
+62.4782 	EXP 	unnamed Aperture: enabled = True
+62.9068 	DATA 	Keypress: 5
+62.9246 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_084.png
+63.1012 	EXP 	unnamed ImageStim: ori = 0
+63.1012 	EXP 	unnamed ImageStim: ori = 0
+63.1012 	EXP 	unnamed Aperture: enabled = True
+63.4821 	DATA 	Keypress: 5
+63.5107 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_085.png
+63.6875 	EXP 	unnamed ImageStim: ori = 0
+63.6875 	EXP 	unnamed ImageStim: ori = 0
+63.6875 	EXP 	unnamed Aperture: enabled = True
+64.0119 	DATA 	Keypress: 5
+64.0320 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_086.png
+64.2115 	EXP 	unnamed ImageStim: ori = 0
+64.2115 	EXP 	unnamed ImageStim: ori = 0
+64.2115 	EXP 	unnamed Aperture: enabled = True
+64.5599 	DATA 	Keypress: 5
+64.5811 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_087.png
+64.7587 	EXP 	unnamed ImageStim: ori = 0
+64.7587 	EXP 	unnamed ImageStim: ori = 0
+64.7587 	EXP 	unnamed Aperture: enabled = True
+65.1448 	DATA 	Keypress: 5
+65.1639 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_088.png
+65.3415 	EXP 	unnamed ImageStim: ori = 0
+65.3415 	EXP 	unnamed ImageStim: ori = 0
+65.3415 	EXP 	unnamed Aperture: enabled = True
+65.7129 	DATA 	Keypress: 5
+65.7330 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_089.png
+66.3131 	DATA 	Keypress: 5
+66.3334 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_090.png
+66.8967 	DATA 	Keypress: 5
+66.9160 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_091.png
+67.4627 	DATA 	Keypress: 5
+67.4820 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_092.png
+68.0300 	DATA 	Keypress: 5
+68.0492 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_093.png
+68.2537 	EXP 	unnamed ImageStim: ori = 45
+68.2537 	EXP 	unnamed ImageStim: ori = 45
+68.2537 	EXP 	unnamed Aperture: enabled = True
+68.5929 	DATA 	Keypress: 5
+68.6138 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_094.png
+68.8034 	EXP 	unnamed ImageStim: ori = 45
+68.8034 	EXP 	unnamed ImageStim: ori = 45
+68.8034 	EXP 	unnamed Aperture: enabled = True
+69.1700 	DATA 	Keypress: 5
+69.1909 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_095.png
+69.3776 	EXP 	unnamed ImageStim: ori = 45
+69.3776 	EXP 	unnamed ImageStim: ori = 45
+69.3776 	EXP 	unnamed Aperture: enabled = True
+69.7722 	DATA 	Keypress: 5
+69.7905 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_096.png
+69.9806 	EXP 	unnamed ImageStim: ori = 45
+69.9806 	EXP 	unnamed ImageStim: ori = 45
+69.9806 	EXP 	unnamed Aperture: enabled = True
+70.3224 	DATA 	Keypress: 5
+70.3413 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_097.png
+70.5346 	EXP 	unnamed ImageStim: ori = 45
+70.5346 	EXP 	unnamed ImageStim: ori = 45
+70.5346 	EXP 	unnamed Aperture: enabled = True
+70.9207 	DATA 	Keypress: 5
+70.9443 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_098.png
+71.1276 	EXP 	unnamed ImageStim: ori = 45
+71.1276 	EXP 	unnamed ImageStim: ori = 45
+71.1276 	EXP 	unnamed Aperture: enabled = True
+71.5588 	DATA 	Keypress: 5
+71.5789 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_099.png
+71.7637 	EXP 	unnamed ImageStim: ori = 45
+71.7637 	EXP 	unnamed ImageStim: ori = 45
+71.7637 	EXP 	unnamed Aperture: enabled = True
+72.1289 	DATA 	Keypress: 5
+72.1508 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_100.png
+72.3401 	EXP 	unnamed ImageStim: ori = 45
+72.3401 	EXP 	unnamed ImageStim: ori = 45
+72.3401 	EXP 	unnamed Aperture: enabled = True
+72.7289 	DATA 	Keypress: 5
+72.7483 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_101.png
+72.9374 	EXP 	unnamed ImageStim: ori = 45
+72.9374 	EXP 	unnamed ImageStim: ori = 45
+72.9374 	EXP 	unnamed Aperture: enabled = True
+73.2928 	DATA 	Keypress: 5
+73.3130 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_102.png
+73.4968 	EXP 	unnamed ImageStim: ori = 45
+73.4968 	EXP 	unnamed ImageStim: ori = 45
+73.4968 	EXP 	unnamed Aperture: enabled = True
+73.8864 	DATA 	Keypress: 5
+73.9050 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_103.png
+74.0861 	EXP 	unnamed ImageStim: ori = 45
+74.0861 	EXP 	unnamed ImageStim: ori = 45
+74.0861 	EXP 	unnamed Aperture: enabled = True
+74.4716 	DATA 	Keypress: 5
+74.4938 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_104.png
+74.6773 	EXP 	unnamed ImageStim: ori = 45
+74.6773 	EXP 	unnamed ImageStim: ori = 45
+74.6773 	EXP 	unnamed Aperture: enabled = True
+75.0657 	DATA 	Keypress: 5
+75.0841 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_105.png
+75.6625 	DATA 	Keypress: 5
+75.6820 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_106.png
+76.2293 	DATA 	Keypress: 5
+76.2484 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_107.png
+76.7952 	DATA 	Keypress: 5
+76.8135 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_108.png
+77.3785 	DATA 	Keypress: 5
+77.3973 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_109.png
+77.5904 	EXP 	unnamed ImageStim: ori = 90
+77.5904 	EXP 	unnamed ImageStim: ori = 90
+77.5904 	EXP 	unnamed Aperture: enabled = True
+77.9016 	DATA 	Keypress: 5
+77.9224 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_110.png
+78.0933 	EXP 	unnamed ImageStim: ori = 90
+78.0933 	EXP 	unnamed ImageStim: ori = 90
+78.0933 	EXP 	unnamed Aperture: enabled = True
+78.5281 	DATA 	Keypress: 5
+78.5496 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_111.png
+78.7296 	EXP 	unnamed ImageStim: ori = 90
+78.7296 	EXP 	unnamed ImageStim: ori = 90
+78.7296 	EXP 	unnamed Aperture: enabled = True
+79.1568 	DATA 	Keypress: 5
+79.1770 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_112.png
+79.3527 	EXP 	unnamed ImageStim: ori = 90
+79.3527 	EXP 	unnamed ImageStim: ori = 90
+79.3527 	EXP 	unnamed Aperture: enabled = True
+79.6276 	DATA 	Keypress: 5
+79.6477 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_113.png
+79.8244 	EXP 	unnamed ImageStim: ori = 90
+79.8244 	EXP 	unnamed ImageStim: ori = 90
+79.8244 	EXP 	unnamed Aperture: enabled = True
+80.1845 	DATA 	Keypress: 5
+80.2045 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_114.png
+80.3836 	EXP 	unnamed ImageStim: ori = 90
+80.3836 	EXP 	unnamed ImageStim: ori = 90
+80.3836 	EXP 	unnamed Aperture: enabled = True
+80.7080 	DATA 	Keypress: 5
+80.7290 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_115.png
+80.9072 	EXP 	unnamed ImageStim: ori = 90
+80.9072 	EXP 	unnamed ImageStim: ori = 90
+80.9072 	EXP 	unnamed Aperture: enabled = True
+81.2469 	DATA 	Keypress: 5
+81.2676 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_116.png
+81.4546 	EXP 	unnamed ImageStim: ori = 90
+81.4546 	EXP 	unnamed ImageStim: ori = 90
+81.4546 	EXP 	unnamed Aperture: enabled = True
+81.7659 	DATA 	Keypress: 5
+81.7863 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_117.png
+81.9633 	EXP 	unnamed ImageStim: ori = 90
+81.9633 	EXP 	unnamed ImageStim: ori = 90
+81.9633 	EXP 	unnamed Aperture: enabled = True
+82.3157 	DATA 	Keypress: 5
+82.3356 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_118.png
+82.5073 	EXP 	unnamed ImageStim: ori = 90
+82.5073 	EXP 	unnamed ImageStim: ori = 90
+82.5073 	EXP 	unnamed Aperture: enabled = True
+82.9172 	DATA 	Keypress: 5
+82.9365 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_119.png
+83.1060 	EXP 	unnamed ImageStim: ori = 90
+83.1060 	EXP 	unnamed ImageStim: ori = 90
+83.1060 	EXP 	unnamed Aperture: enabled = True
+83.4901 	DATA 	Keypress: 5
+83.5103 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_120.png
+83.6913 	EXP 	unnamed ImageStim: ori = 90
+83.6913 	EXP 	unnamed ImageStim: ori = 90
+83.6913 	EXP 	unnamed Aperture: enabled = True
+84.0820 	DATA 	Keypress: 5
+84.1019 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_121.png
+84.6622 	DATA 	Keypress: 5
+84.6808 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_122.png
+85.1614 	DATA 	Keypress: 5
+85.1800 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_123.png
+85.6619 	DATA 	Keypress: 5
+85.6821 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_124.png
+86.2117 	DATA 	Keypress: 5
+86.2303 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_125.png
+86.4270 	EXP 	unnamed ImageStim: ori = 135
+86.4270 	EXP 	unnamed ImageStim: ori = 135
+86.4270 	EXP 	unnamed Aperture: enabled = True
+86.7479 	DATA 	Keypress: 5
+86.7695 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_126.png
+86.9581 	EXP 	unnamed ImageStim: ori = 135
+86.9581 	EXP 	unnamed ImageStim: ori = 135
+86.9581 	EXP 	unnamed Aperture: enabled = True
+87.3149 	DATA 	Keypress: 5
+87.3365 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_127.png
+87.5177 	EXP 	unnamed ImageStim: ori = 135
+87.5177 	EXP 	unnamed ImageStim: ori = 135
+87.5177 	EXP 	unnamed Aperture: enabled = True
+87.8308 	DATA 	Keypress: 5
+87.8506 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_128.png
+88.0401 	EXP 	unnamed ImageStim: ori = 135
+88.0401 	EXP 	unnamed ImageStim: ori = 135
+88.0401 	EXP 	unnamed Aperture: enabled = True
+88.3341 	DATA 	Keypress: 5
+88.3546 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_129.png
+88.5579 	EXP 	unnamed ImageStim: ori = 135
+88.5579 	EXP 	unnamed ImageStim: ori = 135
+88.5579 	EXP 	unnamed Aperture: enabled = True
+88.8642 	DATA 	Keypress: 5
+88.8869 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_130.png
+89.0725 	EXP 	unnamed ImageStim: ori = 135
+89.0725 	EXP 	unnamed ImageStim: ori = 135
+89.0725 	EXP 	unnamed Aperture: enabled = True
+89.3727 	DATA 	Keypress: 5
+89.3933 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_131.png
+89.5771 	EXP 	unnamed ImageStim: ori = 135
+89.5771 	EXP 	unnamed ImageStim: ori = 135
+89.5771 	EXP 	unnamed Aperture: enabled = True
+89.9442 	DATA 	Keypress: 5
+89.9659 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_132.png
+90.1550 	EXP 	unnamed ImageStim: ori = 135
+90.1550 	EXP 	unnamed ImageStim: ori = 135
+90.1550 	EXP 	unnamed Aperture: enabled = True
+90.5488 	DATA 	Keypress: 5
+90.5682 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_133.png
+90.7558 	EXP 	unnamed ImageStim: ori = 135
+90.7558 	EXP 	unnamed ImageStim: ori = 135
+90.7558 	EXP 	unnamed Aperture: enabled = True
+91.1039 	DATA 	Keypress: 5
+91.1249 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_134.png
+91.3125 	EXP 	unnamed ImageStim: ori = 135
+91.3125 	EXP 	unnamed ImageStim: ori = 135
+91.3125 	EXP 	unnamed Aperture: enabled = True
+91.6379 	DATA 	Keypress: 5
+91.6581 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_135.png
+91.8463 	EXP 	unnamed ImageStim: ori = 135
+91.8463 	EXP 	unnamed ImageStim: ori = 135
+91.8463 	EXP 	unnamed Aperture: enabled = True
+92.2108 	DATA 	Keypress: 5
+92.2322 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_136.png
+92.4248 	EXP 	unnamed ImageStim: ori = 135
+92.4248 	EXP 	unnamed ImageStim: ori = 135
+92.4248 	EXP 	unnamed Aperture: enabled = True
+92.8029 	DATA 	Keypress: 5
+92.8281 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_137.png
+93.3948 	DATA 	Keypress: 5
+93.4167 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_138.png
+93.9447 	DATA 	Keypress: 5
+93.9650 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_139.png
+94.5111 	DATA 	Keypress: 5
+94.5310 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_140.png
+95.0602 	DATA 	Keypress: 5
+95.0798 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_141.png
+95.2715 	EXP 	unnamed ImageStim: ori = 0
+95.2715 	EXP 	unnamed ImageStim: ori = 0
+95.2715 	EXP 	unnamed Aperture: enabled = True
+95.5400 	DATA 	Keypress: 5
+95.5610 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_142.png
+95.7391 	EXP 	unnamed ImageStim: ori = 0
+95.7391 	EXP 	unnamed ImageStim: ori = 0
+95.7391 	EXP 	unnamed Aperture: enabled = True
+96.1184 	DATA 	Keypress: 5
+96.1450 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_143.png
+96.3221 	EXP 	unnamed ImageStim: ori = 0
+96.3221 	EXP 	unnamed ImageStim: ori = 0
+96.3221 	EXP 	unnamed Aperture: enabled = True
+96.6975 	DATA 	Keypress: 5
+96.7273 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_144.png
+96.9058 	EXP 	unnamed ImageStim: ori = 0
+96.9058 	EXP 	unnamed ImageStim: ori = 0
+96.9058 	EXP 	unnamed Aperture: enabled = True
+97.2603 	DATA 	Keypress: 5
+97.2819 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_145.png
+97.4603 	EXP 	unnamed ImageStim: ori = 0
+97.4603 	EXP 	unnamed ImageStim: ori = 0
+97.4603 	EXP 	unnamed Aperture: enabled = True
+97.8295 	DATA 	Keypress: 5
+97.8507 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_146.png
+98.0272 	EXP 	unnamed ImageStim: ori = 0
+98.0272 	EXP 	unnamed ImageStim: ori = 0
+98.0272 	EXP 	unnamed Aperture: enabled = True
+98.4304 	DATA 	Keypress: 5
+98.4503 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_147.png
+98.6244 	EXP 	unnamed ImageStim: ori = 0
+98.6244 	EXP 	unnamed ImageStim: ori = 0
+98.6244 	EXP 	unnamed Aperture: enabled = True
+99.0000 	DATA 	Keypress: 5
+99.0291 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_148.png
+99.2070 	EXP 	unnamed ImageStim: ori = 0
+99.2070 	EXP 	unnamed ImageStim: ori = 0
+99.2070 	EXP 	unnamed Aperture: enabled = True
+99.6013 	DATA 	Keypress: 5
+99.6215 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_149.png
+99.7964 	EXP 	unnamed ImageStim: ori = 0
+99.7964 	EXP 	unnamed ImageStim: ori = 0
+99.7964 	EXP 	unnamed Aperture: enabled = True
+100.4101 	DATA 	Keypress: 5
+100.4318 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_150.png
+100.6086 	EXP 	unnamed ImageStim: ori = 0
+100.6086 	EXP 	unnamed ImageStim: ori = 0
+100.6086 	EXP 	unnamed Aperture: enabled = True
+101.2286 	DATA 	Keypress: 5
+101.2511 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_151.png
+101.4308 	EXP 	unnamed ImageStim: ori = 0
+101.4308 	EXP 	unnamed ImageStim: ori = 0
+101.4308 	EXP 	unnamed Aperture: enabled = True
+101.8118 	DATA 	Keypress: 5
+101.8323 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_152.png
+102.0099 	EXP 	unnamed ImageStim: ori = 0
+102.0099 	EXP 	unnamed ImageStim: ori = 0
+102.0099 	EXP 	unnamed Aperture: enabled = True
+102.4060 	DATA 	Keypress: 5
+102.4273 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_153.png
+102.9940 	DATA 	Keypress: 5
+103.0129 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_154.png
+103.5270 	DATA 	Keypress: 5
+103.5469 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_155.png
+104.0443 	DATA 	Keypress: 5
+104.0638 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_156.png
+104.5601 	DATA 	Keypress: 5
+104.5783 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_157.png
+104.7731 	EXP 	unnamed ImageStim: ori = 45
+104.7731 	EXP 	unnamed ImageStim: ori = 45
+104.7731 	EXP 	unnamed Aperture: enabled = True
+105.1555 	DATA 	Keypress: 5
+105.1757 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_158.png
+105.3658 	EXP 	unnamed ImageStim: ori = 45
+105.3658 	EXP 	unnamed ImageStim: ori = 45
+105.3658 	EXP 	unnamed Aperture: enabled = True
+105.6811 	DATA 	Keypress: 5
+105.7008 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_159.png
+105.8887 	EXP 	unnamed ImageStim: ori = 45
+105.8887 	EXP 	unnamed ImageStim: ori = 45
+105.8887 	EXP 	unnamed Aperture: enabled = True
+106.4426 	DATA 	Keypress: 5
+106.4627 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_160.png
+106.6521 	EXP 	unnamed ImageStim: ori = 45
+106.6521 	EXP 	unnamed ImageStim: ori = 45
+106.6521 	EXP 	unnamed Aperture: enabled = True
+106.9769 	DATA 	Keypress: 5
+106.9978 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_161.png
+107.1824 	EXP 	unnamed ImageStim: ori = 45
+107.1824 	EXP 	unnamed ImageStim: ori = 45
+107.1824 	EXP 	unnamed Aperture: enabled = True
+107.5609 	DATA 	Keypress: 5
+107.5924 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_162.png
+107.7820 	EXP 	unnamed ImageStim: ori = 45
+107.7820 	EXP 	unnamed ImageStim: ori = 45
+107.7820 	EXP 	unnamed Aperture: enabled = True
+108.1323 	DATA 	Keypress: 5
+108.1520 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_163.png
+108.3391 	EXP 	unnamed ImageStim: ori = 45
+108.3391 	EXP 	unnamed ImageStim: ori = 45
+108.3391 	EXP 	unnamed Aperture: enabled = True
+108.6463 	DATA 	Keypress: 5
+108.6665 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_164.png
+108.8509 	EXP 	unnamed ImageStim: ori = 45
+108.8509 	EXP 	unnamed ImageStim: ori = 45
+108.8509 	EXP 	unnamed Aperture: enabled = True
+109.1896 	DATA 	Keypress: 5
+109.2096 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_165.png
+109.3980 	EXP 	unnamed ImageStim: ori = 45
+109.3980 	EXP 	unnamed ImageStim: ori = 45
+109.3980 	EXP 	unnamed Aperture: enabled = True
+109.7269 	DATA 	Keypress: 5
+109.7466 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_166.png
+109.9321 	EXP 	unnamed ImageStim: ori = 45
+109.9321 	EXP 	unnamed ImageStim: ori = 45
+109.9321 	EXP 	unnamed Aperture: enabled = True
+110.2610 	DATA 	Keypress: 5
+110.2839 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_167.png
+110.4842 	EXP 	unnamed ImageStim: ori = 45
+110.4842 	EXP 	unnamed ImageStim: ori = 45
+110.4842 	EXP 	unnamed Aperture: enabled = True
+110.8001 	DATA 	Keypress: 5
+110.8200 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_168.png
+110.9990 	EXP 	unnamed ImageStim: ori = 45
+110.9990 	EXP 	unnamed ImageStim: ori = 45
+110.9990 	EXP 	unnamed Aperture: enabled = True
+111.3974 	DATA 	Keypress: 5
+111.4154 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_169.png
+111.9267 	DATA 	Keypress: 5
+111.9449 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_170.png
+112.4771 	DATA 	Keypress: 5
+112.4962 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_171.png
+113.0105 	DATA 	Keypress: 5
+113.0295 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_172.png
+113.5103 	DATA 	Keypress: 5
+113.5292 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_173.png
+113.7139 	EXP 	unnamed ImageStim: ori = 90
+113.7139 	EXP 	unnamed ImageStim: ori = 90
+113.7139 	EXP 	unnamed Aperture: enabled = True
+114.0070 	DATA 	Keypress: 5
+114.0262 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_174.png
+114.2106 	EXP 	unnamed ImageStim: ori = 90
+114.2106 	EXP 	unnamed ImageStim: ori = 90
+114.2106 	EXP 	unnamed Aperture: enabled = True
+114.5686 	DATA 	Keypress: 5
+114.5875 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_175.png
+114.7645 	EXP 	unnamed ImageStim: ori = 90
+114.7645 	EXP 	unnamed ImageStim: ori = 90
+114.7645 	EXP 	unnamed Aperture: enabled = True
+115.2951 	DATA 	Keypress: 5
+115.3137 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_176.png
+115.4918 	EXP 	unnamed ImageStim: ori = 90
+115.4918 	EXP 	unnamed ImageStim: ori = 90
+115.4918 	EXP 	unnamed Aperture: enabled = True
+116.1171 	DATA 	Keypress: 5
+116.1425 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_177.png
+116.3205 	EXP 	unnamed ImageStim: ori = 90
+116.3205 	EXP 	unnamed ImageStim: ori = 90
+116.3205 	EXP 	unnamed Aperture: enabled = True
+116.6892 	DATA 	Keypress: 5
+116.7087 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_178.png
+116.8868 	EXP 	unnamed ImageStim: ori = 90
+116.8868 	EXP 	unnamed ImageStim: ori = 90
+116.8868 	EXP 	unnamed Aperture: enabled = True
+117.2693 	DATA 	Keypress: 5
+117.2912 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_179.png
+117.4679 	EXP 	unnamed ImageStim: ori = 90
+117.4679 	EXP 	unnamed ImageStim: ori = 90
+117.4679 	EXP 	unnamed Aperture: enabled = True
+117.8997 	DATA 	Keypress: 5
+117.9195 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_180.png
+118.1002 	EXP 	unnamed ImageStim: ori = 90
+118.1002 	EXP 	unnamed ImageStim: ori = 90
+118.1002 	EXP 	unnamed Aperture: enabled = True
+118.7961 	DATA 	Keypress: 5
+118.8162 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_181.png
+118.9937 	EXP 	unnamed ImageStim: ori = 90
+118.9937 	EXP 	unnamed ImageStim: ori = 90
+118.9937 	EXP 	unnamed Aperture: enabled = True
+119.3975 	DATA 	Keypress: 5
+119.4172 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_182.png
+119.5937 	EXP 	unnamed ImageStim: ori = 90
+119.5937 	EXP 	unnamed ImageStim: ori = 90
+119.5937 	EXP 	unnamed Aperture: enabled = True
+120.0421 	DATA 	Keypress: 5
+120.0629 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_183.png
+120.2416 	EXP 	unnamed ImageStim: ori = 90
+120.2416 	EXP 	unnamed ImageStim: ori = 90
+120.2416 	EXP 	unnamed Aperture: enabled = True
+120.6757 	DATA 	Keypress: 5
+120.6961 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_184.png
+120.8725 	EXP 	unnamed ImageStim: ori = 90
+120.8725 	EXP 	unnamed ImageStim: ori = 90
+120.8725 	EXP 	unnamed Aperture: enabled = True
+121.2105 	DATA 	Keypress: 5
+121.2308 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_185.png
+121.7427 	DATA 	Keypress: 5
+121.7639 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_186.png
+122.3265 	DATA 	Keypress: 5
+122.3459 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_187.png
+122.8765 	DATA 	Keypress: 5
+122.8952 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_188.png
+123.4599 	DATA 	Keypress: 5
+123.4776 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_189.png
+123.6730 	EXP 	unnamed ImageStim: ori = 135
+123.6730 	EXP 	unnamed ImageStim: ori = 135
+123.6730 	EXP 	unnamed Aperture: enabled = True
+123.9868 	DATA 	Keypress: 5
+124.0053 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_190.png
+124.1958 	EXP 	unnamed ImageStim: ori = 135
+124.1958 	EXP 	unnamed ImageStim: ori = 135
+124.1958 	EXP 	unnamed Aperture: enabled = True
+124.5394 	DATA 	Keypress: 5
+124.5591 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_191.png
+124.7465 	EXP 	unnamed ImageStim: ori = 135
+124.7465 	EXP 	unnamed ImageStim: ori = 135
+124.7465 	EXP 	unnamed Aperture: enabled = True
+125.0787 	DATA 	Keypress: 5
+125.0986 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_192.png
+125.2828 	EXP 	unnamed ImageStim: ori = 135
+125.2828 	EXP 	unnamed ImageStim: ori = 135
+125.2828 	EXP 	unnamed Aperture: enabled = True
+125.6875 	DATA 	Keypress: 5
+125.7076 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_193.png
+125.8952 	EXP 	unnamed ImageStim: ori = 135
+125.8952 	EXP 	unnamed ImageStim: ori = 135
+125.8952 	EXP 	unnamed Aperture: enabled = True
+126.2638 	DATA 	Keypress: 5
+126.2851 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_194.png
+126.4712 	EXP 	unnamed ImageStim: ori = 135
+126.4712 	EXP 	unnamed ImageStim: ori = 135
+126.4712 	EXP 	unnamed Aperture: enabled = True
+126.8164 	DATA 	Keypress: 5
+126.8360 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_195.png
+127.0221 	EXP 	unnamed ImageStim: ori = 135
+127.0221 	EXP 	unnamed ImageStim: ori = 135
+127.0221 	EXP 	unnamed Aperture: enabled = True
+127.3105 	DATA 	Keypress: 5
+127.3291 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_196.png
+127.5193 	EXP 	unnamed ImageStim: ori = 135
+127.5193 	EXP 	unnamed ImageStim: ori = 135
+127.5193 	EXP 	unnamed Aperture: enabled = True
+127.7937 	DATA 	Keypress: 5
+127.8127 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_197.png
+127.9957 	EXP 	unnamed ImageStim: ori = 135
+127.9957 	EXP 	unnamed ImageStim: ori = 135
+127.9957 	EXP 	unnamed Aperture: enabled = True
+128.3460 	DATA 	Keypress: 5
+128.3656 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_198.png
+128.5548 	EXP 	unnamed ImageStim: ori = 135
+128.5548 	EXP 	unnamed ImageStim: ori = 135
+128.5548 	EXP 	unnamed Aperture: enabled = True
+128.9398 	DATA 	Keypress: 5
+128.9592 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_199.png
+129.1402 	EXP 	unnamed ImageStim: ori = 135
+129.1402 	EXP 	unnamed ImageStim: ori = 135
+129.1402 	EXP 	unnamed Aperture: enabled = True
+129.4771 	DATA 	Keypress: 5
+129.4962 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_200.png
+129.6777 	EXP 	unnamed ImageStim: ori = 135
+129.6777 	EXP 	unnamed ImageStim: ori = 135
+129.6777 	EXP 	unnamed Aperture: enabled = True
+129.9922 	DATA 	Keypress: 5
+130.0128 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_201.png
+130.5591 	DATA 	Keypress: 5
+130.5777 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_202.png
+131.0762 	DATA 	Keypress: 5
+131.0958 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_203.png
+131.5755 	DATA 	Keypress: 5
+131.5946 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_204.png
+132.0759 	DATA 	Keypress: 5
+132.0947 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_205.png
+132.2793 	EXP 	unnamed ImageStim: ori = 0
+132.2793 	EXP 	unnamed ImageStim: ori = 0
+132.2793 	EXP 	unnamed Aperture: enabled = True
+132.5400 	DATA 	Keypress: 5
+132.5610 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_206.png
+132.7490 	EXP 	unnamed ImageStim: ori = 0
+132.7490 	EXP 	unnamed ImageStim: ori = 0
+132.7490 	EXP 	unnamed Aperture: enabled = True
+133.0313 	DATA 	Keypress: 5
+133.0516 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_207.png
+133.2217 	EXP 	unnamed ImageStim: ori = 0
+133.2217 	EXP 	unnamed ImageStim: ori = 0
+133.2217 	EXP 	unnamed Aperture: enabled = True
+133.5391 	DATA 	Keypress: 5
+133.5603 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_208.png
+133.7383 	EXP 	unnamed ImageStim: ori = 0
+133.7383 	EXP 	unnamed ImageStim: ori = 0
+133.7383 	EXP 	unnamed Aperture: enabled = True
+134.1196 	DATA 	Keypress: 5
+134.1411 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_209.png
+134.3188 	EXP 	unnamed ImageStim: ori = 0
+134.3188 	EXP 	unnamed ImageStim: ori = 0
+134.3188 	EXP 	unnamed Aperture: enabled = True
+134.7209 	DATA 	Keypress: 5
+134.7402 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_210.png
+134.9090 	EXP 	unnamed ImageStim: ori = 0
+134.9090 	EXP 	unnamed ImageStim: ori = 0
+134.9090 	EXP 	unnamed Aperture: enabled = True
+135.2985 	DATA 	Keypress: 5
+135.3177 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_211.png
+135.4946 	EXP 	unnamed ImageStim: ori = 0
+135.4946 	EXP 	unnamed ImageStim: ori = 0
+135.4946 	EXP 	unnamed Aperture: enabled = True
+135.8202 	DATA 	Keypress: 5
+135.8415 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_212.png
+136.0184 	EXP 	unnamed ImageStim: ori = 0
+136.0184 	EXP 	unnamed ImageStim: ori = 0
+136.0184 	EXP 	unnamed Aperture: enabled = True
+136.3547 	DATA 	Keypress: 5
+136.3756 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_213.png
+136.5549 	EXP 	unnamed ImageStim: ori = 0
+136.5549 	EXP 	unnamed ImageStim: ori = 0
+136.5549 	EXP 	unnamed Aperture: enabled = True
+136.8854 	DATA 	Keypress: 5
+136.9049 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_214.png
+137.0834 	EXP 	unnamed ImageStim: ori = 0
+137.0834 	EXP 	unnamed ImageStim: ori = 0
+137.0834 	EXP 	unnamed Aperture: enabled = True
+137.4499 	DATA 	Keypress: 5
+137.4695 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_215.png
+137.6462 	EXP 	unnamed ImageStim: ori = 0
+137.6462 	EXP 	unnamed ImageStim: ori = 0
+137.6462 	EXP 	unnamed Aperture: enabled = True
+137.9340 	DATA 	Keypress: 5
+137.9531 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_216.png
+138.1309 	EXP 	unnamed ImageStim: ori = 0
+138.1309 	EXP 	unnamed ImageStim: ori = 0
+138.1309 	EXP 	unnamed Aperture: enabled = True
+138.4559 	DATA 	Keypress: 5
+138.4759 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_217.png
+139.0420 	DATA 	Keypress: 5
+139.0603 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_218.png
+139.5754 	DATA 	Keypress: 5
+139.5945 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_219.png
+140.0736 	DATA 	Keypress: 5
+140.0934 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_220.png
+140.5922 	DATA 	Keypress: 5
+140.6108 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_221.png
+140.7978 	EXP 	unnamed ImageStim: ori = 45
+140.7978 	EXP 	unnamed ImageStim: ori = 45
+140.7978 	EXP 	unnamed Aperture: enabled = True
+141.0759 	DATA 	Keypress: 5
+141.0967 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_222.png
+141.3003 	EXP 	unnamed ImageStim: ori = 45
+141.3003 	EXP 	unnamed ImageStim: ori = 45
+141.3003 	EXP 	unnamed Aperture: enabled = True
+141.5717 	DATA 	Keypress: 5
+141.5901 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_223.png
+141.7741 	EXP 	unnamed ImageStim: ori = 45
+141.7741 	EXP 	unnamed ImageStim: ori = 45
+141.7741 	EXP 	unnamed Aperture: enabled = True
+142.0116 	DATA 	Keypress: 5
+142.0317 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_224.png
+142.2236 	EXP 	unnamed ImageStim: ori = 45
+142.2236 	EXP 	unnamed ImageStim: ori = 45
+142.2236 	EXP 	unnamed Aperture: enabled = True
+143.0914 	DATA 	Keypress: 5
+143.1130 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_225.png
+143.2930 	EXP 	unnamed ImageStim: ori = 45
+143.2930 	EXP 	unnamed ImageStim: ori = 45
+143.2930 	EXP 	unnamed Aperture: enabled = True
+143.6367 	DATA 	Keypress: 5
+143.6564 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_226.png
+143.8435 	EXP 	unnamed ImageStim: ori = 45
+143.8435 	EXP 	unnamed ImageStim: ori = 45
+143.8435 	EXP 	unnamed Aperture: enabled = True
+144.2750 	DATA 	Keypress: 5
+144.3014 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_227.png
+144.4959 	EXP 	unnamed ImageStim: ori = 45
+144.4959 	EXP 	unnamed ImageStim: ori = 45
+144.4959 	EXP 	unnamed Aperture: enabled = True
+144.9308 	DATA 	Keypress: 5
+144.9504 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_228.png
+145.1386 	EXP 	unnamed ImageStim: ori = 45
+145.1386 	EXP 	unnamed ImageStim: ori = 45
+145.1386 	EXP 	unnamed Aperture: enabled = True
+145.5320 	DATA 	Keypress: 5
+145.5506 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_229.png
+145.7372 	EXP 	unnamed ImageStim: ori = 45
+145.7372 	EXP 	unnamed ImageStim: ori = 45
+145.7372 	EXP 	unnamed Aperture: enabled = True
+146.0420 	DATA 	Keypress: 5
+146.0629 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_230.png
+146.2498 	EXP 	unnamed ImageStim: ori = 45
+146.2498 	EXP 	unnamed ImageStim: ori = 45
+146.2498 	EXP 	unnamed Aperture: enabled = True
+146.5332 	DATA 	Keypress: 5
+146.5509 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_231.png
+146.7399 	EXP 	unnamed ImageStim: ori = 45
+146.7399 	EXP 	unnamed ImageStim: ori = 45
+146.7399 	EXP 	unnamed Aperture: enabled = True
+147.0569 	DATA 	Keypress: 5
+147.0771 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_232.png
+147.2536 	EXP 	unnamed ImageStim: ori = 45
+147.2536 	EXP 	unnamed ImageStim: ori = 45
+147.2536 	EXP 	unnamed Aperture: enabled = True
+147.5759 	DATA 	Keypress: 5
+147.5960 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_233.png
+148.0743 	DATA 	Keypress: 5
+148.0921 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_234.png
+148.5913 	DATA 	Keypress: 5
+148.6106 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_235.png
+149.0410 	DATA 	Keypress: 5
+149.0601 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_236.png
+149.5410 	DATA 	Keypress: 5
+149.5595 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_237.png
+149.7573 	EXP 	unnamed ImageStim: ori = 90
+149.7573 	EXP 	unnamed ImageStim: ori = 90
+149.7573 	EXP 	unnamed Aperture: enabled = True
+150.0266 	DATA 	Keypress: 5
+150.0467 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_238.png
+150.2270 	EXP 	unnamed ImageStim: ori = 90
+150.2270 	EXP 	unnamed ImageStim: ori = 90
+150.2270 	EXP 	unnamed Aperture: enabled = True
+150.5015 	DATA 	Keypress: 5
+150.5202 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_239.png
+150.6991 	EXP 	unnamed ImageStim: ori = 90
+150.6991 	EXP 	unnamed ImageStim: ori = 90
+150.6991 	EXP 	unnamed Aperture: enabled = True
+150.9946 	DATA 	Keypress: 5
+151.0136 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_240.png
+151.1923 	EXP 	unnamed ImageStim: ori = 90
+151.1923 	EXP 	unnamed ImageStim: ori = 90
+151.1923 	EXP 	unnamed Aperture: enabled = True
+151.4856 	DATA 	Keypress: 5
+151.5050 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_241.png
+151.6804 	EXP 	unnamed ImageStim: ori = 90
+151.6804 	EXP 	unnamed ImageStim: ori = 90
+151.6804 	EXP 	unnamed Aperture: enabled = True
+151.9307 	DATA 	Keypress: 5
+151.9545 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_242.png
+152.1334 	EXP 	unnamed ImageStim: ori = 90
+152.1334 	EXP 	unnamed ImageStim: ori = 90
+152.1334 	EXP 	unnamed Aperture: enabled = True
+152.4009 	DATA 	Keypress: 5
+152.4205 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_243.png
+152.5995 	EXP 	unnamed ImageStim: ori = 90
+152.5995 	EXP 	unnamed ImageStim: ori = 90
+152.5995 	EXP 	unnamed Aperture: enabled = True
+152.8957 	DATA 	Keypress: 5
+152.9159 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_244.png
+153.0936 	EXP 	unnamed ImageStim: ori = 90
+153.0936 	EXP 	unnamed ImageStim: ori = 90
+153.0936 	EXP 	unnamed Aperture: enabled = True
+153.3578 	DATA 	Keypress: 5
+153.3777 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_245.png
+153.5557 	EXP 	unnamed ImageStim: ori = 90
+153.5557 	EXP 	unnamed ImageStim: ori = 90
+153.5557 	EXP 	unnamed Aperture: enabled = True
+153.8501 	DATA 	Keypress: 5
+153.8696 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_246.png
+154.0472 	EXP 	unnamed ImageStim: ori = 90
+154.0472 	EXP 	unnamed ImageStim: ori = 90
+154.0472 	EXP 	unnamed Aperture: enabled = True
+154.3343 	DATA 	Keypress: 5
+154.3529 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_247.png
+154.5302 	EXP 	unnamed ImageStim: ori = 90
+154.5302 	EXP 	unnamed ImageStim: ori = 90
+154.5302 	EXP 	unnamed Aperture: enabled = True
+154.8067 	DATA 	Keypress: 5
+154.8264 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_248.png
+155.0038 	EXP 	unnamed ImageStim: ori = 90
+155.0038 	EXP 	unnamed ImageStim: ori = 90
+155.0038 	EXP 	unnamed Aperture: enabled = True
+155.2346 	DATA 	Keypress: 5
+155.2539 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_249.png
+155.6576 	DATA 	Keypress: 5
+155.6764 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_250.png
+156.1412 	DATA 	Keypress: 5
+156.1603 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_251.png
+156.6241 	DATA 	Keypress: 5
+156.6435 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_252.png
+157.1244 	DATA 	Keypress: 5
+157.1441 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_253.png
+157.3412 	EXP 	unnamed ImageStim: ori = 135
+157.3412 	EXP 	unnamed ImageStim: ori = 135
+157.3412 	EXP 	unnamed Aperture: enabled = True
+157.6445 	DATA 	Keypress: 5
+157.6675 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_254.png
+157.8571 	EXP 	unnamed ImageStim: ori = 135
+157.8571 	EXP 	unnamed ImageStim: ori = 135
+157.8571 	EXP 	unnamed Aperture: enabled = True
+158.1555 	DATA 	Keypress: 5
+158.1753 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_255.png
+158.3644 	EXP 	unnamed ImageStim: ori = 135
+158.3644 	EXP 	unnamed ImageStim: ori = 135
+158.3644 	EXP 	unnamed Aperture: enabled = True
+158.8300 	DATA 	Keypress: 5
+158.8513 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_256.png
+159.0355 	EXP 	unnamed ImageStim: ori = 135
+159.0355 	EXP 	unnamed ImageStim: ori = 135
+159.0355 	EXP 	unnamed Aperture: enabled = True
+159.3358 	DATA 	Keypress: 5
+159.3568 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_257.png
+159.5453 	EXP 	unnamed ImageStim: ori = 135
+159.5453 	EXP 	unnamed ImageStim: ori = 135
+159.5453 	EXP 	unnamed Aperture: enabled = True
+159.8069 	DATA 	Keypress: 5
+159.8262 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_258.png
+160.0144 	EXP 	unnamed ImageStim: ori = 135
+160.0144 	EXP 	unnamed ImageStim: ori = 135
+160.0144 	EXP 	unnamed Aperture: enabled = True
+160.3158 	DATA 	Keypress: 5
+160.3364 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_259.png
+160.5204 	EXP 	unnamed ImageStim: ori = 135
+160.5204 	EXP 	unnamed ImageStim: ori = 135
+160.5204 	EXP 	unnamed Aperture: enabled = True
+160.8457 	DATA 	Keypress: 5
+160.8661 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_260.png
+161.0559 	EXP 	unnamed ImageStim: ori = 135
+161.0559 	EXP 	unnamed ImageStim: ori = 135
+161.0559 	EXP 	unnamed Aperture: enabled = True
+161.3684 	DATA 	Keypress: 5
+161.3886 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_261.png
+161.5694 	EXP 	unnamed ImageStim: ori = 135
+161.5694 	EXP 	unnamed ImageStim: ori = 135
+161.5694 	EXP 	unnamed Aperture: enabled = True
+161.8876 	DATA 	Keypress: 5
+161.9096 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_262.png
+162.0992 	EXP 	unnamed ImageStim: ori = 135
+162.0992 	EXP 	unnamed ImageStim: ori = 135
+162.0992 	EXP 	unnamed Aperture: enabled = True
+162.3909 	DATA 	Keypress: 5
+162.4095 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_263.png
+162.5975 	EXP 	unnamed ImageStim: ori = 135
+162.5975 	EXP 	unnamed ImageStim: ori = 135
+162.5975 	EXP 	unnamed Aperture: enabled = True
+162.9338 	DATA 	Keypress: 5
+162.9532 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_264.png
+163.1346 	EXP 	unnamed ImageStim: ori = 135
+163.1346 	EXP 	unnamed ImageStim: ori = 135
+163.1346 	EXP 	unnamed Aperture: enabled = True
+163.4656 	DATA 	Keypress: 5
+163.4863 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_265.png
+163.9904 	DATA 	Keypress: 5
+164.0093 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_266.png
+164.4570 	DATA 	Keypress: 5
+164.4756 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_267.png
+164.9904 	DATA 	Keypress: 5
+165.0114 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_268.png
+165.4567 	DATA 	Keypress: 5
+165.4750 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_269.png
+165.6602 	EXP 	unnamed ImageStim: ori = 0
+165.6602 	EXP 	unnamed ImageStim: ori = 0
+165.6602 	EXP 	unnamed Aperture: enabled = True
+165.9594 	DATA 	Keypress: 5
+165.9794 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_270.png
+166.1587 	EXP 	unnamed ImageStim: ori = 0
+166.1587 	EXP 	unnamed ImageStim: ori = 0
+166.1587 	EXP 	unnamed Aperture: enabled = True
+166.4380 	DATA 	Keypress: 5
+166.4565 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_271.png
+166.6329 	EXP 	unnamed ImageStim: ori = 0
+166.6329 	EXP 	unnamed ImageStim: ori = 0
+166.6329 	EXP 	unnamed Aperture: enabled = True
+166.9326 	DATA 	Keypress: 5
+166.9529 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_272.png
+167.1309 	EXP 	unnamed ImageStim: ori = 0
+167.1309 	EXP 	unnamed ImageStim: ori = 0
+167.1309 	EXP 	unnamed Aperture: enabled = True
+167.4121 	DATA 	Keypress: 5
+167.4310 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_273.png
+167.6072 	EXP 	unnamed ImageStim: ori = 0
+167.6072 	EXP 	unnamed ImageStim: ori = 0
+167.6072 	EXP 	unnamed Aperture: enabled = True
+167.8944 	DATA 	Keypress: 5
+167.9119 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_274.png
+168.0885 	EXP 	unnamed ImageStim: ori = 0
+168.0885 	EXP 	unnamed ImageStim: ori = 0
+168.0885 	EXP 	unnamed Aperture: enabled = True
+168.3779 	DATA 	Keypress: 5
+168.3962 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_275.png
+168.5719 	EXP 	unnamed ImageStim: ori = 0
+168.5719 	EXP 	unnamed ImageStim: ori = 0
+168.5719 	EXP 	unnamed Aperture: enabled = True
+168.8503 	DATA 	Keypress: 5
+168.8692 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_276.png
+169.0503 	EXP 	unnamed ImageStim: ori = 0
+169.0503 	EXP 	unnamed ImageStim: ori = 0
+169.0503 	EXP 	unnamed Aperture: enabled = True
+169.3485 	DATA 	Keypress: 5
+169.3676 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_277.png
+169.5418 	EXP 	unnamed ImageStim: ori = 0
+169.5418 	EXP 	unnamed ImageStim: ori = 0
+169.5418 	EXP 	unnamed Aperture: enabled = True
+169.8194 	DATA 	Keypress: 5
+169.8380 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_278.png
+170.0213 	EXP 	unnamed ImageStim: ori = 0
+170.0213 	EXP 	unnamed ImageStim: ori = 0
+170.0213 	EXP 	unnamed Aperture: enabled = True
+170.3421 	DATA 	Keypress: 5
+170.3637 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_279.png
+170.5397 	EXP 	unnamed ImageStim: ori = 0
+170.5397 	EXP 	unnamed ImageStim: ori = 0
+170.5397 	EXP 	unnamed Aperture: enabled = True
+170.8205 	DATA 	Keypress: 5
+170.8403 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_280.png
+171.0078 	EXP 	unnamed ImageStim: ori = 0
+171.0078 	EXP 	unnamed ImageStim: ori = 0
+171.0078 	EXP 	unnamed Aperture: enabled = True
+171.3218 	DATA 	Keypress: 5
+171.3417 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_281.png
+171.8405 	DATA 	Keypress: 5
+171.8592 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_282.png
+172.3402 	DATA 	Keypress: 5
+172.3579 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_283.png
+172.7925 	DATA 	Keypress: 5
+172.8113 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_284.png
+173.2732 	DATA 	Keypress: 5
+173.2922 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_285.png
+173.4866 	EXP 	unnamed ImageStim: ori = 45
+173.4866 	EXP 	unnamed ImageStim: ori = 45
+173.4866 	EXP 	unnamed Aperture: enabled = True
+173.7453 	DATA 	Keypress: 5
+173.7711 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_286.png
+173.9655 	EXP 	unnamed ImageStim: ori = 45
+173.9655 	EXP 	unnamed ImageStim: ori = 45
+173.9655 	EXP 	unnamed Aperture: enabled = True
+174.2158 	DATA 	Keypress: 5
+174.2380 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_287.png
+174.4284 	EXP 	unnamed ImageStim: ori = 45
+174.4284 	EXP 	unnamed ImageStim: ori = 45
+174.4284 	EXP 	unnamed Aperture: enabled = True
+174.6783 	DATA 	Keypress: 5
+174.7041 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_288.png
+174.8945 	EXP 	unnamed ImageStim: ori = 45
+174.8945 	EXP 	unnamed ImageStim: ori = 45
+174.8945 	EXP 	unnamed Aperture: enabled = True
+175.1576 	DATA 	Keypress: 5
+175.1763 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_289.png
+175.3633 	EXP 	unnamed ImageStim: ori = 45
+175.3633 	EXP 	unnamed ImageStim: ori = 45
+175.3633 	EXP 	unnamed Aperture: enabled = True
+175.6231 	DATA 	Keypress: 5
+175.6417 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_290.png
+175.8333 	EXP 	unnamed ImageStim: ori = 45
+175.8333 	EXP 	unnamed ImageStim: ori = 45
+175.8333 	EXP 	unnamed Aperture: enabled = True
+176.1350 	DATA 	Keypress: 5
+176.1552 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_291.png
+176.3437 	EXP 	unnamed ImageStim: ori = 45
+176.3437 	EXP 	unnamed ImageStim: ori = 45
+176.3437 	EXP 	unnamed Aperture: enabled = True
+176.6370 	DATA 	Keypress: 5
+176.6570 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_292.png
+176.8473 	EXP 	unnamed ImageStim: ori = 45
+176.8473 	EXP 	unnamed ImageStim: ori = 45
+176.8473 	EXP 	unnamed Aperture: enabled = True
+177.1614 	DATA 	Keypress: 5
+177.1818 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_293.png
+177.3709 	EXP 	unnamed ImageStim: ori = 45
+177.3709 	EXP 	unnamed ImageStim: ori = 45
+177.3709 	EXP 	unnamed Aperture: enabled = True
+177.6598 	DATA 	Keypress: 5
+177.6779 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_294.png
+177.8688 	EXP 	unnamed ImageStim: ori = 45
+177.8688 	EXP 	unnamed ImageStim: ori = 45
+177.8688 	EXP 	unnamed Aperture: enabled = True
+178.1746 	DATA 	Keypress: 5
+178.1975 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_295.png
+178.3854 	EXP 	unnamed ImageStim: ori = 45
+178.3854 	EXP 	unnamed ImageStim: ori = 45
+178.3854 	EXP 	unnamed Aperture: enabled = True
+178.6798 	DATA 	Keypress: 5
+178.6993 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_296.png
+178.8818 	EXP 	unnamed ImageStim: ori = 45
+178.8818 	EXP 	unnamed ImageStim: ori = 45
+178.8818 	EXP 	unnamed Aperture: enabled = True
+179.1768 	DATA 	Keypress: 5
+179.1949 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_297.png
+179.7069 	DATA 	Keypress: 5
+179.7269 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_298.png
+180.1724 	DATA 	Keypress: 5
+180.1906 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_299.png
+180.6566 	DATA 	Keypress: 5
+180.6764 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_300.png
+181.1564 	DATA 	Keypress: 5
+181.1756 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_301.png
+181.3679 	EXP 	unnamed ImageStim: ori = 90
+181.3679 	EXP 	unnamed ImageStim: ori = 90
+181.3679 	EXP 	unnamed Aperture: enabled = True
+181.6515 	DATA 	Keypress: 5
+181.6694 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_302.png
+181.8485 	EXP 	unnamed ImageStim: ori = 90
+181.8485 	EXP 	unnamed ImageStim: ori = 90
+181.8485 	EXP 	unnamed Aperture: enabled = True
+182.1017 	DATA 	Keypress: 5
+182.1210 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_303.png
+182.2991 	EXP 	unnamed ImageStim: ori = 90
+182.2991 	EXP 	unnamed ImageStim: ori = 90
+182.2991 	EXP 	unnamed Aperture: enabled = True
+182.5509 	DATA 	Keypress: 5
+182.5721 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_304.png
+182.7437 	EXP 	unnamed ImageStim: ori = 90
+182.7437 	EXP 	unnamed ImageStim: ori = 90
+182.7437 	EXP 	unnamed Aperture: enabled = True
+182.9946 	DATA 	Keypress: 5
+183.0201 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_305.png
+183.1887 	EXP 	unnamed ImageStim: ori = 90
+183.1887 	EXP 	unnamed ImageStim: ori = 90
+183.1887 	EXP 	unnamed Aperture: enabled = True
+183.4436 	DATA 	Keypress: 5
+183.4690 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_306.png
+183.6471 	EXP 	unnamed ImageStim: ori = 90
+183.6471 	EXP 	unnamed ImageStim: ori = 90
+183.6471 	EXP 	unnamed Aperture: enabled = True
+183.9751 	DATA 	Keypress: 5
+183.9966 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_307.png
+184.1631 	EXP 	unnamed ImageStim: ori = 90
+184.1631 	EXP 	unnamed ImageStim: ori = 90
+184.1631 	EXP 	unnamed Aperture: enabled = True
+184.4596 	DATA 	Keypress: 5
+184.4795 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_308.png
+184.6577 	EXP 	unnamed ImageStim: ori = 90
+184.6577 	EXP 	unnamed ImageStim: ori = 90
+184.6577 	EXP 	unnamed Aperture: enabled = True
+184.9540 	DATA 	Keypress: 5
+184.9732 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_309.png
+185.1496 	EXP 	unnamed ImageStim: ori = 90
+185.1496 	EXP 	unnamed ImageStim: ori = 90
+185.1496 	EXP 	unnamed Aperture: enabled = True
+185.4354 	DATA 	Keypress: 5
+185.4543 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_310.png
+185.6351 	EXP 	unnamed ImageStim: ori = 90
+185.6351 	EXP 	unnamed ImageStim: ori = 90
+185.6351 	EXP 	unnamed Aperture: enabled = True
+186.0011 	DATA 	Keypress: 5
+186.0228 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_311.png
+186.2034 	EXP 	unnamed ImageStim: ori = 90
+186.2034 	EXP 	unnamed ImageStim: ori = 90
+186.2034 	EXP 	unnamed Aperture: enabled = True
+186.6193 	DATA 	Keypress: 5
+186.6382 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_312.png
+186.8157 	EXP 	unnamed ImageStim: ori = 90
+186.8157 	EXP 	unnamed ImageStim: ori = 90
+186.8157 	EXP 	unnamed Aperture: enabled = True
+187.3844 	DATA 	Keypress: 5
+187.4055 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_313.png
+187.9059 	DATA 	Keypress: 5
+187.9256 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_314.png
+188.3393 	DATA 	Keypress: 5
+188.3584 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_315.png
+188.8383 	DATA 	Keypress: 5
+188.8577 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_316.png
+189.3700 	DATA 	Keypress: 5
+189.3886 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_317.png
+189.5816 	EXP 	unnamed ImageStim: ori = 135
+189.5816 	EXP 	unnamed ImageStim: ori = 135
+189.5816 	EXP 	unnamed Aperture: enabled = True
+189.7414 	DATA 	Keypress: 5
+189.7609 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_318.png
+189.9522 	EXP 	unnamed ImageStim: ori = 135
+189.9522 	EXP 	unnamed ImageStim: ori = 135
+189.9522 	EXP 	unnamed Aperture: enabled = True
+190.3872 	DATA 	Keypress: 5
+190.4087 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_319.png
+190.5913 	EXP 	unnamed ImageStim: ori = 135
+190.5913 	EXP 	unnamed ImageStim: ori = 135
+190.5913 	EXP 	unnamed Aperture: enabled = True
+191.0282 	DATA 	Keypress: 5
+191.0480 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_320.png
+191.2351 	EXP 	unnamed ImageStim: ori = 135
+191.2351 	EXP 	unnamed ImageStim: ori = 135
+191.2351 	EXP 	unnamed Aperture: enabled = True
+191.5609 	DATA 	Keypress: 5
+191.5810 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_321.png
+191.7692 	EXP 	unnamed ImageStim: ori = 135
+191.7692 	EXP 	unnamed ImageStim: ori = 135
+191.7692 	EXP 	unnamed Aperture: enabled = True
+192.0613 	DATA 	Keypress: 5
+192.0819 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_322.png
+192.2656 	EXP 	unnamed ImageStim: ori = 135
+192.2656 	EXP 	unnamed ImageStim: ori = 135
+192.2656 	EXP 	unnamed Aperture: enabled = True
+192.5898 	DATA 	Keypress: 5
+192.6091 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_323.png
+192.7887 	EXP 	unnamed ImageStim: ori = 135
+192.7887 	EXP 	unnamed ImageStim: ori = 135
+192.7887 	EXP 	unnamed Aperture: enabled = True
+193.0606 	DATA 	Keypress: 5
+193.0800 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_324.png
+193.2687 	EXP 	unnamed ImageStim: ori = 135
+193.2687 	EXP 	unnamed ImageStim: ori = 135
+193.2687 	EXP 	unnamed Aperture: enabled = True
+193.9247 	DATA 	Keypress: 5
+193.9445 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_325.png
+194.1390 	EXP 	unnamed ImageStim: ori = 135
+194.1390 	EXP 	unnamed ImageStim: ori = 135
+194.1390 	EXP 	unnamed Aperture: enabled = True
+194.4652 	DATA 	Keypress: 5
+194.4849 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_326.png
+194.6749 	EXP 	unnamed ImageStim: ori = 135
+194.6749 	EXP 	unnamed ImageStim: ori = 135
+194.6749 	EXP 	unnamed Aperture: enabled = True
+195.0347 	DATA 	Keypress: 5
+195.0563 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_327.png
+195.2460 	EXP 	unnamed ImageStim: ori = 135
+195.2460 	EXP 	unnamed ImageStim: ori = 135
+195.2460 	EXP 	unnamed Aperture: enabled = True
+195.5816 	DATA 	Keypress: 5
+195.6011 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_328.png
+195.7803 	EXP 	unnamed ImageStim: ori = 135
+195.7803 	EXP 	unnamed ImageStim: ori = 135
+195.7803 	EXP 	unnamed Aperture: enabled = True
+196.0557 	DATA 	Keypress: 5
+196.0742 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_329.png
+196.5711 	DATA 	Keypress: 5
+196.5906 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_330.png
+197.0721 	DATA 	Keypress: 5
+197.0906 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_331.png
+197.5223 	DATA 	Keypress: 5
+197.5430 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_332.png
+197.9881 	DATA 	Keypress: 5
+198.0093 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_333.png
+198.2036 	EXP 	unnamed ImageStim: ori = 0
+198.2036 	EXP 	unnamed ImageStim: ori = 0
+198.2036 	EXP 	unnamed Aperture: enabled = True
+198.3993 	DATA 	Keypress: 5
+198.4185 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_334.png
+198.6014 	EXP 	unnamed ImageStim: ori = 0
+198.6014 	EXP 	unnamed ImageStim: ori = 0
+198.6014 	EXP 	unnamed Aperture: enabled = True
+198.9661 	DATA 	Keypress: 5
+198.9880 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_335.png
+199.1654 	EXP 	unnamed ImageStim: ori = 0
+199.1654 	EXP 	unnamed ImageStim: ori = 0
+199.1654 	EXP 	unnamed Aperture: enabled = True
+199.4504 	DATA 	Keypress: 5
+199.4692 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_336.png
+199.6485 	EXP 	unnamed ImageStim: ori = 0
+199.6485 	EXP 	unnamed ImageStim: ori = 0
+199.6485 	EXP 	unnamed Aperture: enabled = True
+199.9820 	DATA 	Keypress: 5
+200.0011 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_337.png
+200.1814 	EXP 	unnamed ImageStim: ori = 0
+200.1814 	EXP 	unnamed ImageStim: ori = 0
+200.1814 	EXP 	unnamed Aperture: enabled = True
+200.4622 	DATA 	Keypress: 5
+200.4794 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_338.png
+200.6606 	EXP 	unnamed ImageStim: ori = 0
+200.6606 	EXP 	unnamed ImageStim: ori = 0
+200.6606 	EXP 	unnamed Aperture: enabled = True
+200.9648 	DATA 	Keypress: 5
+200.9845 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_339.png
+201.1614 	EXP 	unnamed ImageStim: ori = 0
+201.1614 	EXP 	unnamed ImageStim: ori = 0
+201.1614 	EXP 	unnamed Aperture: enabled = True
+201.4855 	DATA 	Keypress: 5
+201.5053 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_340.png
+201.6835 	EXP 	unnamed ImageStim: ori = 0
+201.6835 	EXP 	unnamed ImageStim: ori = 0
+201.6835 	EXP 	unnamed Aperture: enabled = True
+201.9729 	DATA 	Keypress: 5
+201.9913 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_341.png
+202.1703 	EXP 	unnamed ImageStim: ori = 0
+202.1703 	EXP 	unnamed ImageStim: ori = 0
+202.1703 	EXP 	unnamed Aperture: enabled = True
+202.4626 	DATA 	Keypress: 5
+202.4809 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_342.png
+202.6563 	EXP 	unnamed ImageStim: ori = 0
+202.6563 	EXP 	unnamed ImageStim: ori = 0
+202.6563 	EXP 	unnamed Aperture: enabled = True
+202.9777 	DATA 	Keypress: 5
+202.9988 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_343.png
+203.1773 	EXP 	unnamed ImageStim: ori = 0
+203.1773 	EXP 	unnamed ImageStim: ori = 0
+203.1773 	EXP 	unnamed Aperture: enabled = True
+203.4874 	DATA 	Keypress: 5
+203.5072 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_344.png
+203.6836 	EXP 	unnamed ImageStim: ori = 0
+203.6836 	EXP 	unnamed ImageStim: ori = 0
+203.6836 	EXP 	unnamed Aperture: enabled = True
+204.0144 	DATA 	Keypress: 5
+204.0336 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_345.png
+204.4879 	DATA 	Keypress: 5
+204.5056 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_346.png
+204.9715 	DATA 	Keypress: 5
+204.9903 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_347.png
+205.5043 	DATA 	Keypress: 5
+205.5238 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_348.png
+206.0223 	DATA 	Keypress: 5
+206.0404 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_349.png
+206.2341 	EXP 	unnamed ImageStim: ori = 45
+206.2341 	EXP 	unnamed ImageStim: ori = 45
+206.2341 	EXP 	unnamed Aperture: enabled = True
+206.4758 	DATA 	Keypress: 5
+206.4976 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_350.png
+206.6991 	EXP 	unnamed ImageStim: ori = 45
+206.6991 	EXP 	unnamed ImageStim: ori = 45
+206.6991 	EXP 	unnamed Aperture: enabled = True
+206.9130 	DATA 	Keypress: 5
+206.9344 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_351.png
+207.1205 	EXP 	unnamed ImageStim: ori = 45
+207.1205 	EXP 	unnamed ImageStim: ori = 45
+207.1205 	EXP 	unnamed Aperture: enabled = True
+207.3954 	DATA 	Keypress: 5
+207.4146 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_352.png
+207.5993 	EXP 	unnamed ImageStim: ori = 45
+207.5993 	EXP 	unnamed ImageStim: ori = 45
+207.5993 	EXP 	unnamed Aperture: enabled = True
+207.8747 	DATA 	Keypress: 5
+207.8943 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_353.png
+208.0824 	EXP 	unnamed ImageStim: ori = 45
+208.0824 	EXP 	unnamed ImageStim: ori = 45
+208.0824 	EXP 	unnamed Aperture: enabled = True
+208.4155 	DATA 	Keypress: 5
+208.4361 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_354.png
+208.6287 	EXP 	unnamed ImageStim: ori = 45
+208.6287 	EXP 	unnamed ImageStim: ori = 45
+208.6287 	EXP 	unnamed Aperture: enabled = True
+208.8525 	DATA 	Keypress: 5
+208.8726 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_355.png
+209.0687 	EXP 	unnamed ImageStim: ori = 45
+209.0687 	EXP 	unnamed ImageStim: ori = 45
+209.0687 	EXP 	unnamed Aperture: enabled = True
+209.3379 	DATA 	Keypress: 5
+209.3563 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_356.png
+209.5463 	EXP 	unnamed ImageStim: ori = 45
+209.5463 	EXP 	unnamed ImageStim: ori = 45
+209.5463 	EXP 	unnamed Aperture: enabled = True
+209.8112 	DATA 	Keypress: 5
+209.8299 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_357.png
+210.0209 	EXP 	unnamed ImageStim: ori = 45
+210.0209 	EXP 	unnamed ImageStim: ori = 45
+210.0209 	EXP 	unnamed Aperture: enabled = True
+210.3184 	DATA 	Keypress: 5
+210.3366 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_358.png
+210.5168 	EXP 	unnamed ImageStim: ori = 45
+210.5168 	EXP 	unnamed ImageStim: ori = 45
+210.5168 	EXP 	unnamed Aperture: enabled = True
+210.8313 	DATA 	Keypress: 5
+210.8526 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_359.png
+211.0426 	EXP 	unnamed ImageStim: ori = 45
+211.0426 	EXP 	unnamed ImageStim: ori = 45
+211.0426 	EXP 	unnamed Aperture: enabled = True
+211.3118 	DATA 	Keypress: 5
+211.3318 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_360.png
+211.5165 	EXP 	unnamed ImageStim: ori = 45
+211.5165 	EXP 	unnamed ImageStim: ori = 45
+211.5165 	EXP 	unnamed Aperture: enabled = True
+211.8205 	DATA 	Keypress: 5
+211.8412 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_361.png
+212.3216 	DATA 	Keypress: 5
+212.3383 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_362.png
+212.7707 	DATA 	Keypress: 5
+212.7894 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_363.png
+213.3021 	DATA 	Keypress: 5
+213.3212 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_364.png
+213.8046 	DATA 	Keypress: 5
+213.8233 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_365.png
+214.0155 	EXP 	unnamed ImageStim: ori = 90
+214.0155 	EXP 	unnamed ImageStim: ori = 90
+214.0155 	EXP 	unnamed Aperture: enabled = True
+214.3018 	DATA 	Keypress: 5
+214.3204 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_366.png
+214.4960 	EXP 	unnamed ImageStim: ori = 90
+214.4960 	EXP 	unnamed ImageStim: ori = 90
+214.4960 	EXP 	unnamed Aperture: enabled = True
+214.8559 	DATA 	Keypress: 5
+214.8776 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_367.png
+215.0562 	EXP 	unnamed ImageStim: ori = 90
+215.0562 	EXP 	unnamed ImageStim: ori = 90
+215.0562 	EXP 	unnamed Aperture: enabled = True
+215.4090 	DATA 	Keypress: 5
+215.4290 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_368.png
+215.6095 	EXP 	unnamed ImageStim: ori = 90
+215.6095 	EXP 	unnamed ImageStim: ori = 90
+215.6095 	EXP 	unnamed Aperture: enabled = True
+215.9128 	DATA 	Keypress: 5
+215.9322 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_369.png
+216.1017 	EXP 	unnamed ImageStim: ori = 90
+216.1017 	EXP 	unnamed ImageStim: ori = 90
+216.1017 	EXP 	unnamed Aperture: enabled = True
+216.4143 	DATA 	Keypress: 5
+216.4340 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_370.png
+216.6121 	EXP 	unnamed ImageStim: ori = 90
+216.6121 	EXP 	unnamed ImageStim: ori = 90
+216.6121 	EXP 	unnamed Aperture: enabled = True
+216.9270 	DATA 	Keypress: 5
+216.9473 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_371.png
+217.1258 	EXP 	unnamed ImageStim: ori = 90
+217.1258 	EXP 	unnamed ImageStim: ori = 90
+217.1258 	EXP 	unnamed Aperture: enabled = True
+217.4586 	DATA 	Keypress: 5
+217.4778 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_372.png
+217.6472 	EXP 	unnamed ImageStim: ori = 90
+217.6472 	EXP 	unnamed ImageStim: ori = 90
+217.6472 	EXP 	unnamed Aperture: enabled = True
+218.0544 	DATA 	Keypress: 5
+218.0743 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_373.png
+218.2523 	EXP 	unnamed ImageStim: ori = 90
+218.2523 	EXP 	unnamed ImageStim: ori = 90
+218.2523 	EXP 	unnamed Aperture: enabled = True
+218.5876 	DATA 	Keypress: 5
+218.6080 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_374.png
+218.7878 	EXP 	unnamed ImageStim: ori = 90
+218.7878 	EXP 	unnamed ImageStim: ori = 90
+218.7878 	EXP 	unnamed Aperture: enabled = True
+219.1048 	DATA 	Keypress: 5
+219.1247 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_375.png
+219.3026 	EXP 	unnamed ImageStim: ori = 90
+219.3026 	EXP 	unnamed ImageStim: ori = 90
+219.3026 	EXP 	unnamed Aperture: enabled = True
+219.5227 	DATA 	Keypress: 5
+219.5432 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_376.png
+219.7213 	EXP 	unnamed ImageStim: ori = 90
+219.7213 	EXP 	unnamed ImageStim: ori = 90
+219.7213 	EXP 	unnamed Aperture: enabled = True
+220.0838 	DATA 	Keypress: 5
+220.1056 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_377.png
+220.5202 	DATA 	Keypress: 5
+220.5362 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_378.png
+221.0374 	DATA 	Keypress: 5
+221.0577 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_379.png
+221.4707 	DATA 	Keypress: 5
+221.4892 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_380.png
+221.9538 	DATA 	Keypress: 5
+221.9729 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_381.png
+222.1672 	EXP 	unnamed ImageStim: ori = 135
+222.1672 	EXP 	unnamed ImageStim: ori = 135
+222.1672 	EXP 	unnamed Aperture: enabled = True
+222.4807 	DATA 	Keypress: 5
+222.5017 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_382.png
+222.6898 	EXP 	unnamed ImageStim: ori = 135
+222.6898 	EXP 	unnamed ImageStim: ori = 135
+222.6898 	EXP 	unnamed Aperture: enabled = True
+222.9749 	DATA 	Keypress: 5
+222.9941 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_383.png
+223.1847 	EXP 	unnamed ImageStim: ori = 135
+223.1847 	EXP 	unnamed ImageStim: ori = 135
+223.1847 	EXP 	unnamed Aperture: enabled = True
+223.4353 	DATA 	Keypress: 5
+223.4693 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_384.png
+223.6588 	EXP 	unnamed ImageStim: ori = 135
+223.6588 	EXP 	unnamed ImageStim: ori = 135
+223.6588 	EXP 	unnamed Aperture: enabled = True
+223.9182 	DATA 	Keypress: 5
+223.9376 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_385.png
+224.1254 	EXP 	unnamed ImageStim: ori = 135
+224.1254 	EXP 	unnamed ImageStim: ori = 135
+224.1254 	EXP 	unnamed Aperture: enabled = True
+224.3491 	DATA 	Keypress: 5
+224.3691 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_386.png
+224.5420 	EXP 	unnamed ImageStim: ori = 135
+224.5420 	EXP 	unnamed ImageStim: ori = 135
+224.5420 	EXP 	unnamed Aperture: enabled = True
+224.6514 	DATA 	Keypress: 5
+224.6718 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_387.png
+224.8526 	EXP 	unnamed ImageStim: ori = 135
+224.8526 	EXP 	unnamed ImageStim: ori = 135
+224.8526 	EXP 	unnamed Aperture: enabled = True
+225.1873 	DATA 	Keypress: 5
+225.2082 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_388.png
+225.3957 	EXP 	unnamed ImageStim: ori = 135
+225.3957 	EXP 	unnamed ImageStim: ori = 135
+225.3957 	EXP 	unnamed Aperture: enabled = True
+225.5674 	DATA 	Keypress: 5
+225.5862 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_389.png
+225.7712 	EXP 	unnamed ImageStim: ori = 135
+225.7712 	EXP 	unnamed ImageStim: ori = 135
+225.7712 	EXP 	unnamed Aperture: enabled = True
+226.0432 	DATA 	Keypress: 5
+226.0624 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_390.png
+226.2500 	EXP 	unnamed ImageStim: ori = 135
+226.2500 	EXP 	unnamed ImageStim: ori = 135
+226.2500 	EXP 	unnamed Aperture: enabled = True
+226.5341 	DATA 	Keypress: 5
+226.5521 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_391.png
+226.7391 	EXP 	unnamed ImageStim: ori = 135
+226.7391 	EXP 	unnamed ImageStim: ori = 135
+226.7391 	EXP 	unnamed Aperture: enabled = True
+226.9953 	DATA 	Keypress: 5
+227.0180 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_392.png
+227.2067 	EXP 	unnamed ImageStim: ori = 135
+227.2067 	EXP 	unnamed ImageStim: ori = 135
+227.2067 	EXP 	unnamed Aperture: enabled = True
+227.4997 	DATA 	Keypress: 5
+227.5183 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_393.png
+227.9867 	DATA 	Keypress: 5
+228.0056 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_394.png
+228.4536 	DATA 	Keypress: 5
+228.4725 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_395.png
+228.9199 	DATA 	Keypress: 5
+228.9392 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_396.png
+229.4030 	DATA 	Keypress: 5
+229.4211 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_397.png
+229.6044 	EXP 	unnamed ImageStim: ori = 0
+229.6044 	EXP 	unnamed ImageStim: ori = 0
+229.6044 	EXP 	unnamed Aperture: enabled = True
+229.8641 	DATA 	Keypress: 5
+229.8849 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_398.png
+230.0666 	EXP 	unnamed ImageStim: ori = 0
+230.0666 	EXP 	unnamed ImageStim: ori = 0
+230.0666 	EXP 	unnamed Aperture: enabled = True
+230.3667 	DATA 	Keypress: 5
+230.3844 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_399.png
+230.5622 	EXP 	unnamed ImageStim: ori = 0
+230.5622 	EXP 	unnamed ImageStim: ori = 0
+230.5622 	EXP 	unnamed Aperture: enabled = True
+230.8753 	DATA 	Keypress: 5
+230.8947 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_400.png
+231.0743 	EXP 	unnamed ImageStim: ori = 0
+231.0743 	EXP 	unnamed ImageStim: ori = 0
+231.0743 	EXP 	unnamed Aperture: enabled = True
+231.3858 	DATA 	Keypress: 5
+231.4075 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_401.png
+231.5766 	EXP 	unnamed ImageStim: ori = 0
+231.5766 	EXP 	unnamed ImageStim: ori = 0
+231.5766 	EXP 	unnamed Aperture: enabled = True
+231.9521 	DATA 	Keypress: 5
+231.9859 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_402.png
+232.1631 	EXP 	unnamed ImageStim: ori = 0
+232.1631 	EXP 	unnamed ImageStim: ori = 0
+232.1631 	EXP 	unnamed Aperture: enabled = True
+232.4870 	DATA 	Keypress: 5
+232.5064 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_403.png
+232.6854 	EXP 	unnamed ImageStim: ori = 0
+232.6854 	EXP 	unnamed ImageStim: ori = 0
+232.6854 	EXP 	unnamed Aperture: enabled = True
+232.9102 	DATA 	Keypress: 5
+232.9320 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_404.png
+233.1101 	EXP 	unnamed ImageStim: ori = 0
+233.1101 	EXP 	unnamed ImageStim: ori = 0
+233.1101 	EXP 	unnamed Aperture: enabled = True
+233.4242 	DATA 	Keypress: 5
+233.4436 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_405.png
+233.6207 	EXP 	unnamed ImageStim: ori = 0
+233.6207 	EXP 	unnamed ImageStim: ori = 0
+233.6207 	EXP 	unnamed Aperture: enabled = True
+233.8817 	DATA 	Keypress: 5
+233.9012 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_406.png
+234.0766 	EXP 	unnamed ImageStim: ori = 0
+234.0766 	EXP 	unnamed ImageStim: ori = 0
+234.0766 	EXP 	unnamed Aperture: enabled = True
+234.4077 	DATA 	Keypress: 5
+234.4274 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_407.png
+234.6049 	EXP 	unnamed ImageStim: ori = 0
+234.6049 	EXP 	unnamed ImageStim: ori = 0
+234.6049 	EXP 	unnamed Aperture: enabled = True
+234.9353 	DATA 	Keypress: 5
+234.9559 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_408.png
+235.1355 	EXP 	unnamed ImageStim: ori = 0
+235.1355 	EXP 	unnamed ImageStim: ori = 0
+235.1355 	EXP 	unnamed Aperture: enabled = True
+235.4666 	DATA 	Keypress: 5
+235.4869 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_409.png
+236.0033 	DATA 	Keypress: 5
+236.0228 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_410.png
+236.4535 	DATA 	Keypress: 5
+236.4719 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_411.png
+236.9198 	DATA 	Keypress: 5
+236.9393 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_412.png
+237.3860 	DATA 	Keypress: 5
+237.4036 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_413.png
+237.5970 	EXP 	unnamed ImageStim: ori = 45
+237.5970 	EXP 	unnamed ImageStim: ori = 45
+237.5970 	EXP 	unnamed Aperture: enabled = True
+237.8531 	DATA 	Keypress: 5
+237.8722 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_414.png
+238.0626 	EXP 	unnamed ImageStim: ori = 45
+238.0626 	EXP 	unnamed ImageStim: ori = 45
+238.0626 	EXP 	unnamed Aperture: enabled = True
+238.3197 	DATA 	Keypress: 5
+238.3383 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_415.png
+238.5251 	EXP 	unnamed ImageStim: ori = 45
+238.5251 	EXP 	unnamed ImageStim: ori = 45
+238.5251 	EXP 	unnamed Aperture: enabled = True
+238.8221 	DATA 	Keypress: 5
+238.8401 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_416.png
+239.0285 	EXP 	unnamed ImageStim: ori = 45
+239.0285 	EXP 	unnamed ImageStim: ori = 45
+239.0285 	EXP 	unnamed Aperture: enabled = True
+239.3456 	DATA 	Keypress: 5
+239.3647 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_417.png
+239.5537 	EXP 	unnamed ImageStim: ori = 45
+239.5537 	EXP 	unnamed ImageStim: ori = 45
+239.5537 	EXP 	unnamed Aperture: enabled = True
+239.8867 	DATA 	Keypress: 5
+239.9066 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_418.png
+240.1016 	EXP 	unnamed ImageStim: ori = 45
+240.1016 	EXP 	unnamed ImageStim: ori = 45
+240.1016 	EXP 	unnamed Aperture: enabled = True
+240.4223 	DATA 	Keypress: 5
+240.4424 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_419.png
+240.6280 	EXP 	unnamed ImageStim: ori = 45
+240.6280 	EXP 	unnamed ImageStim: ori = 45
+240.6280 	EXP 	unnamed Aperture: enabled = True
+240.9115 	DATA 	Keypress: 5
+240.9296 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_420.png
+241.1173 	EXP 	unnamed ImageStim: ori = 45
+241.1173 	EXP 	unnamed ImageStim: ori = 45
+241.1173 	EXP 	unnamed Aperture: enabled = True
+241.4126 	DATA 	Keypress: 5
+241.4296 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_421.png
+241.6173 	EXP 	unnamed ImageStim: ori = 45
+241.6173 	EXP 	unnamed ImageStim: ori = 45
+241.6173 	EXP 	unnamed Aperture: enabled = True
+242.0385 	DATA 	Keypress: 5
+242.0574 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_422.png
+242.2434 	EXP 	unnamed ImageStim: ori = 45
+242.2434 	EXP 	unnamed ImageStim: ori = 45
+242.2434 	EXP 	unnamed Aperture: enabled = True
+242.5528 	DATA 	Keypress: 5
+242.5739 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_423.png
+242.7548 	EXP 	unnamed ImageStim: ori = 45
+242.7548 	EXP 	unnamed ImageStim: ori = 45
+242.7548 	EXP 	unnamed Aperture: enabled = True
+243.0691 	DATA 	Keypress: 5
+243.0892 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_424.png
+243.2814 	EXP 	unnamed ImageStim: ori = 45
+243.2814 	EXP 	unnamed ImageStim: ori = 45
+243.2814 	EXP 	unnamed Aperture: enabled = True
+243.6598 	DATA 	Keypress: 5
+243.6850 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_425.png
+244.1865 	DATA 	Keypress: 5
+244.2066 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_426.png
+244.6528 	DATA 	Keypress: 5
+244.6717 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_427.png
+245.1863 	DATA 	Keypress: 5
+245.2052 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_428.png
+245.6687 	DATA 	Keypress: 5
+245.6877 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_429.png
+245.8816 	EXP 	unnamed ImageStim: ori = 90
+245.8816 	EXP 	unnamed ImageStim: ori = 90
+245.8816 	EXP 	unnamed Aperture: enabled = True
+246.1201 	DATA 	Keypress: 5
+246.1417 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_430.png
+246.3316 	EXP 	unnamed ImageStim: ori = 90
+246.3316 	EXP 	unnamed ImageStim: ori = 90
+246.3316 	EXP 	unnamed Aperture: enabled = True
+247.0458 	DATA 	Keypress: 5
+247.0675 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_431.png
+247.2442 	EXP 	unnamed ImageStim: ori = 90
+247.2442 	EXP 	unnamed ImageStim: ori = 90
+247.2442 	EXP 	unnamed Aperture: enabled = True
+247.5887 	DATA 	Keypress: 5
+247.6081 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_432.png
+247.7866 	EXP 	unnamed ImageStim: ori = 90
+247.7866 	EXP 	unnamed ImageStim: ori = 90
+247.7866 	EXP 	unnamed Aperture: enabled = True
+248.1313 	DATA 	Keypress: 5
+248.1506 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_433.png
+248.3264 	EXP 	unnamed ImageStim: ori = 90
+248.3264 	EXP 	unnamed ImageStim: ori = 90
+248.3264 	EXP 	unnamed Aperture: enabled = True
+248.6209 	DATA 	Keypress: 5
+248.6401 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_434.png
+248.8167 	EXP 	unnamed ImageStim: ori = 90
+248.8167 	EXP 	unnamed ImageStim: ori = 90
+248.8167 	EXP 	unnamed Aperture: enabled = True
+249.1845 	DATA 	Keypress: 5
+249.2049 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_435.png
+249.3850 	EXP 	unnamed ImageStim: ori = 90
+249.3850 	EXP 	unnamed ImageStim: ori = 90
+249.3850 	EXP 	unnamed Aperture: enabled = True
+249.7142 	DATA 	Keypress: 5
+249.7333 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_436.png
+249.9098 	EXP 	unnamed ImageStim: ori = 90
+249.9098 	EXP 	unnamed ImageStim: ori = 90
+249.9098 	EXP 	unnamed Aperture: enabled = True
+250.3371 	DATA 	Keypress: 5
+250.3549 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_437.png
+250.5336 	EXP 	unnamed ImageStim: ori = 90
+250.5336 	EXP 	unnamed ImageStim: ori = 90
+250.5336 	EXP 	unnamed Aperture: enabled = True
+250.8959 	DATA 	Keypress: 5
+250.9162 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_438.png
+251.0966 	EXP 	unnamed ImageStim: ori = 90
+251.0966 	EXP 	unnamed ImageStim: ori = 90
+251.0966 	EXP 	unnamed Aperture: enabled = True
+251.4783 	DATA 	Keypress: 5
+251.4984 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_439.png
+251.6757 	EXP 	unnamed ImageStim: ori = 90
+251.6757 	EXP 	unnamed ImageStim: ori = 90
+251.6757 	EXP 	unnamed Aperture: enabled = True
+252.0327 	DATA 	Keypress: 5
+252.0534 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_440.png
+252.2323 	EXP 	unnamed ImageStim: ori = 90
+252.2323 	EXP 	unnamed ImageStim: ori = 90
+252.2323 	EXP 	unnamed Aperture: enabled = True
+252.6429 	DATA 	Keypress: 5
+252.6619 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_441.png
+253.2182 	DATA 	Keypress: 5
+253.2381 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_442.png
+253.7190 	DATA 	Keypress: 5
+253.7379 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_443.png
+254.8020 	DATA 	Keypress: 5
+254.8228 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_444.png
+255.2863 	DATA 	Keypress: 5
+255.3047 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_445.png
+255.4975 	EXP 	unnamed ImageStim: ori = 135
+255.4975 	EXP 	unnamed ImageStim: ori = 135
+255.4975 	EXP 	unnamed Aperture: enabled = True
+255.7635 	DATA 	Keypress: 5
+255.7804 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_446.png
+255.9650 	EXP 	unnamed ImageStim: ori = 135
+255.9650 	EXP 	unnamed ImageStim: ori = 135
+255.9650 	EXP 	unnamed Aperture: enabled = True
+256.2642 	DATA 	Keypress: 5
+256.2817 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_447.png
+256.4644 	EXP 	unnamed ImageStim: ori = 135
+256.4644 	EXP 	unnamed ImageStim: ori = 135
+256.4644 	EXP 	unnamed Aperture: enabled = True
+256.7744 	DATA 	Keypress: 5
+256.7951 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_448.png
+256.9826 	EXP 	unnamed ImageStim: ori = 135
+256.9826 	EXP 	unnamed ImageStim: ori = 135
+256.9826 	EXP 	unnamed Aperture: enabled = True
+257.2821 	DATA 	Keypress: 5
+257.3006 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_449.png
+257.4898 	EXP 	unnamed ImageStim: ori = 135
+257.4898 	EXP 	unnamed ImageStim: ori = 135
+257.4898 	EXP 	unnamed Aperture: enabled = True
+257.7847 	DATA 	Keypress: 5
+257.8044 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_450.png
+257.9862 	EXP 	unnamed ImageStim: ori = 135
+257.9862 	EXP 	unnamed ImageStim: ori = 135
+257.9862 	EXP 	unnamed Aperture: enabled = True
+258.3006 	DATA 	Keypress: 5
+258.3215 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_451.png
+258.5132 	EXP 	unnamed ImageStim: ori = 135
+258.5132 	EXP 	unnamed ImageStim: ori = 135
+258.5132 	EXP 	unnamed Aperture: enabled = True
+258.7965 	DATA 	Keypress: 5
+258.8169 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_452.png
+259.0057 	EXP 	unnamed ImageStim: ori = 135
+259.0057 	EXP 	unnamed ImageStim: ori = 135
+259.0057 	EXP 	unnamed Aperture: enabled = True
+259.2837 	DATA 	Keypress: 5
+259.3038 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_453.png
+259.4911 	EXP 	unnamed ImageStim: ori = 135
+259.4911 	EXP 	unnamed ImageStim: ori = 135
+259.4911 	EXP 	unnamed Aperture: enabled = True
+259.7808 	DATA 	Keypress: 5
+259.8000 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_454.png
+259.9841 	EXP 	unnamed ImageStim: ori = 135
+259.9841 	EXP 	unnamed ImageStim: ori = 135
+259.9841 	EXP 	unnamed Aperture: enabled = True
+260.2721 	DATA 	Keypress: 5
+260.2963 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_455.png
+260.4776 	EXP 	unnamed ImageStim: ori = 135
+260.4776 	EXP 	unnamed ImageStim: ori = 135
+260.4776 	EXP 	unnamed Aperture: enabled = True
+260.7694 	DATA 	Keypress: 5
+260.7874 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_456.png
+260.9671 	EXP 	unnamed ImageStim: ori = 135
+260.9671 	EXP 	unnamed ImageStim: ori = 135
+260.9671 	EXP 	unnamed Aperture: enabled = True
+261.2401 	DATA 	Keypress: 5
+261.2591 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_457.png
+261.7009 	DATA 	Keypress: 5
+261.7181 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_458.png
+262.1682 	DATA 	Keypress: 5
+262.1868 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_459.png
+262.6349 	DATA 	Keypress: 5
+262.6535 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_460.png
+263.1350 	DATA 	Keypress: 5
+263.1538 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_461.png
+263.3471 	EXP 	unnamed ImageStim: ori = 0
+263.3471 	EXP 	unnamed ImageStim: ori = 0
+263.3471 	EXP 	unnamed Aperture: enabled = True
+263.5795 	DATA 	Keypress: 5
+263.6024 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_462.png
+263.7885 	EXP 	unnamed ImageStim: ori = 0
+263.7885 	EXP 	unnamed ImageStim: ori = 0
+263.7885 	EXP 	unnamed Aperture: enabled = True
+264.0730 	DATA 	Keypress: 5
+264.0924 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_463.png
+264.2701 	EXP 	unnamed ImageStim: ori = 0
+264.2701 	EXP 	unnamed ImageStim: ori = 0
+264.2701 	EXP 	unnamed Aperture: enabled = True
+264.5254 	DATA 	Keypress: 5
+264.5475 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_464.png
+264.7274 	EXP 	unnamed ImageStim: ori = 0
+264.7274 	EXP 	unnamed ImageStim: ori = 0
+264.7274 	EXP 	unnamed Aperture: enabled = True
+265.0458 	DATA 	Keypress: 5
+265.0661 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_465.png
+265.2440 	EXP 	unnamed ImageStim: ori = 0
+265.2440 	EXP 	unnamed ImageStim: ori = 0
+265.2440 	EXP 	unnamed Aperture: enabled = True
+265.4943 	DATA 	Keypress: 5
+265.5139 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_466.png
+265.6907 	EXP 	unnamed ImageStim: ori = 0
+265.6907 	EXP 	unnamed ImageStim: ori = 0
+265.6907 	EXP 	unnamed Aperture: enabled = True
+265.9248 	DATA 	Keypress: 5
+265.9455 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_467.png
+266.1218 	EXP 	unnamed ImageStim: ori = 0
+266.1218 	EXP 	unnamed ImageStim: ori = 0
+266.1218 	EXP 	unnamed Aperture: enabled = True
+266.4402 	DATA 	Keypress: 5
+266.4606 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_468.png
+266.6366 	EXP 	unnamed ImageStim: ori = 0
+266.6366 	EXP 	unnamed ImageStim: ori = 0
+266.6366 	EXP 	unnamed Aperture: enabled = True
+266.9412 	DATA 	Keypress: 5
+266.9608 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_469.png
+267.1365 	EXP 	unnamed ImageStim: ori = 0
+267.1365 	EXP 	unnamed ImageStim: ori = 0
+267.1365 	EXP 	unnamed Aperture: enabled = True
+267.4409 	DATA 	Keypress: 5
+267.4608 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_470.png
+267.6428 	EXP 	unnamed ImageStim: ori = 0
+267.6428 	EXP 	unnamed ImageStim: ori = 0
+267.6428 	EXP 	unnamed Aperture: enabled = True
+267.9123 	DATA 	Keypress: 5
+267.9301 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_471.png
+268.1103 	EXP 	unnamed ImageStim: ori = 0
+268.1103 	EXP 	unnamed ImageStim: ori = 0
+268.1103 	EXP 	unnamed Aperture: enabled = True
+268.3935 	DATA 	Keypress: 5
+268.4131 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_472.png
+268.5926 	EXP 	unnamed ImageStim: ori = 0
+268.5926 	EXP 	unnamed ImageStim: ori = 0
+268.5926 	EXP 	unnamed Aperture: enabled = True
+268.8888 	DATA 	Keypress: 5
+268.9106 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_473.png
+269.3515 	DATA 	Keypress: 5
+269.3704 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_474.png
+269.8004 	DATA 	Keypress: 5
+269.8189 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_475.png
+270.2986 	DATA 	Keypress: 5
+270.3183 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_476.png
+270.7841 	DATA 	Keypress: 5
+270.8029 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_477.png
+271.0014 	EXP 	unnamed ImageStim: ori = 45
+271.0014 	EXP 	unnamed ImageStim: ori = 45
+271.0014 	EXP 	unnamed Aperture: enabled = True
+271.2465 	DATA 	Keypress: 5
+271.2685 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_478.png
+271.4605 	EXP 	unnamed ImageStim: ori = 45
+271.4605 	EXP 	unnamed ImageStim: ori = 45
+271.4605 	EXP 	unnamed Aperture: enabled = True
+271.7268 	DATA 	Keypress: 5
+271.7449 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_479.png
+271.9355 	EXP 	unnamed ImageStim: ori = 45
+271.9355 	EXP 	unnamed ImageStim: ori = 45
+271.9355 	EXP 	unnamed Aperture: enabled = True
+272.1897 	DATA 	Keypress: 5
+272.2162 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_480.png
+272.4077 	EXP 	unnamed ImageStim: ori = 45
+272.4077 	EXP 	unnamed ImageStim: ori = 45
+272.4077 	EXP 	unnamed Aperture: enabled = True
+272.6781 	DATA 	Keypress: 5
+272.6994 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_481.png
+272.8878 	EXP 	unnamed ImageStim: ori = 45
+272.8878 	EXP 	unnamed ImageStim: ori = 45
+272.8878 	EXP 	unnamed Aperture: enabled = True
+273.1748 	DATA 	Keypress: 5
+273.1963 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_482.png
+273.3873 	EXP 	unnamed ImageStim: ori = 45
+273.3873 	EXP 	unnamed ImageStim: ori = 45
+273.3873 	EXP 	unnamed Aperture: enabled = True
+273.6443 	DATA 	Keypress: 5
+273.6583 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_483.png
+273.8448 	EXP 	unnamed ImageStim: ori = 45
+273.8448 	EXP 	unnamed ImageStim: ori = 45
+273.8448 	EXP 	unnamed Aperture: enabled = True
+274.1450 	DATA 	Keypress: 5
+274.1586 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_484.png
+274.3377 	EXP 	unnamed ImageStim: ori = 45
+274.3377 	EXP 	unnamed ImageStim: ori = 45
+274.3377 	EXP 	unnamed Aperture: enabled = True
+274.6869 	DATA 	Keypress: 5
+274.7016 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_485.png
+274.8931 	EXP 	unnamed ImageStim: ori = 45
+274.8931 	EXP 	unnamed ImageStim: ori = 45
+274.8931 	EXP 	unnamed Aperture: enabled = True
+275.2131 	DATA 	Keypress: 5
+275.2265 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_486.png
+275.4253 	EXP 	unnamed ImageStim: ori = 45
+275.4253 	EXP 	unnamed ImageStim: ori = 45
+275.4253 	EXP 	unnamed Aperture: enabled = True
+275.7300 	DATA 	Keypress: 5
+275.7436 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_487.png
+275.9275 	EXP 	unnamed ImageStim: ori = 45
+275.9275 	EXP 	unnamed ImageStim: ori = 45
+275.9275 	EXP 	unnamed Aperture: enabled = True
+276.2346 	DATA 	Keypress: 5
+276.2492 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_488.png
+276.4312 	EXP 	unnamed ImageStim: ori = 45
+276.4312 	EXP 	unnamed ImageStim: ori = 45
+276.4312 	EXP 	unnamed Aperture: enabled = True
+276.7392 	DATA 	Keypress: 5
+276.7533 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_489.png
+277.2649 	DATA 	Keypress: 5
+277.2764 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_490.png
+277.7820 	DATA 	Keypress: 5
+277.7953 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_491.png
+278.2670 	DATA 	Keypress: 5
+278.2855 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_492.png
+278.7829 	DATA 	Keypress: 5
+278.8008 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_493.png
+278.9935 	EXP 	unnamed ImageStim: ori = 90
+278.9935 	EXP 	unnamed ImageStim: ori = 90
+278.9935 	EXP 	unnamed Aperture: enabled = True
+279.2762 	DATA 	Keypress: 5
+279.2945 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_494.png
+279.4762 	EXP 	unnamed ImageStim: ori = 90
+279.4762 	EXP 	unnamed ImageStim: ori = 90
+279.4762 	EXP 	unnamed Aperture: enabled = True
+279.7610 	DATA 	Keypress: 5
+279.7784 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_495.png
+279.9575 	EXP 	unnamed ImageStim: ori = 90
+279.9575 	EXP 	unnamed ImageStim: ori = 90
+279.9575 	EXP 	unnamed Aperture: enabled = True
+280.2844 	DATA 	Keypress: 5
+280.3046 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_496.png
+280.4740 	EXP 	unnamed ImageStim: ori = 90
+280.4740 	EXP 	unnamed ImageStim: ori = 90
+280.4740 	EXP 	unnamed Aperture: enabled = True
+280.7536 	DATA 	Keypress: 5
+280.7724 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_497.png
+280.9514 	EXP 	unnamed ImageStim: ori = 90
+280.9514 	EXP 	unnamed ImageStim: ori = 90
+280.9514 	EXP 	unnamed Aperture: enabled = True
+281.2322 	DATA 	Keypress: 5
+281.2520 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_498.png
+281.4186 	EXP 	unnamed ImageStim: ori = 90
+281.4186 	EXP 	unnamed ImageStim: ori = 90
+281.4186 	EXP 	unnamed Aperture: enabled = True
+281.7204 	DATA 	Keypress: 5
+281.7385 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_499.png
+281.9187 	EXP 	unnamed ImageStim: ori = 90
+281.9187 	EXP 	unnamed ImageStim: ori = 90
+281.9187 	EXP 	unnamed Aperture: enabled = True
+282.2854 	DATA 	Keypress: 5
+282.3055 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_500.png
+282.4846 	EXP 	unnamed ImageStim: ori = 90
+282.4846 	EXP 	unnamed ImageStim: ori = 90
+282.4846 	EXP 	unnamed Aperture: enabled = True
+282.8445 	DATA 	Keypress: 5
+282.8644 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_501.png
+283.0414 	EXP 	unnamed ImageStim: ori = 90
+283.0414 	EXP 	unnamed ImageStim: ori = 90
+283.0414 	EXP 	unnamed Aperture: enabled = True
+283.3526 	DATA 	Keypress: 5
+283.3727 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_502.png
+283.5506 	EXP 	unnamed ImageStim: ori = 90
+283.5506 	EXP 	unnamed ImageStim: ori = 90
+283.5506 	EXP 	unnamed Aperture: enabled = True
+283.8365 	DATA 	Keypress: 5
+283.8547 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_503.png
+284.0329 	EXP 	unnamed ImageStim: ori = 90
+284.0329 	EXP 	unnamed ImageStim: ori = 90
+284.0329 	EXP 	unnamed Aperture: enabled = True
+284.3104 	DATA 	Keypress: 5
+284.3288 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_504.png
+284.5088 	EXP 	unnamed ImageStim: ori = 90
+284.5088 	EXP 	unnamed ImageStim: ori = 90
+284.5088 	EXP 	unnamed Aperture: enabled = True
+284.8453 	DATA 	Keypress: 5
+284.8652 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_505.png
+285.4155 	DATA 	Keypress: 5
+285.4342 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_506.png
+285.8504 	DATA 	Keypress: 5
+285.8716 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_507.png
+286.3337 	DATA 	Keypress: 5
+286.3528 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_508.png
+286.8170 	DATA 	Keypress: 5
+286.8353 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_509.png
+287.0282 	EXP 	unnamed ImageStim: ori = 135
+287.0282 	EXP 	unnamed ImageStim: ori = 135
+287.0282 	EXP 	unnamed Aperture: enabled = True
+287.2677 	DATA 	Keypress: 5
+287.2892 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_510.png
+287.4816 	EXP 	unnamed ImageStim: ori = 135
+287.4816 	EXP 	unnamed ImageStim: ori = 135
+287.4816 	EXP 	unnamed Aperture: enabled = True
+287.6897 	DATA 	Keypress: 5
+287.7094 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_511.png
+287.8932 	EXP 	unnamed ImageStim: ori = 135
+287.8932 	EXP 	unnamed ImageStim: ori = 135
+287.8932 	EXP 	unnamed Aperture: enabled = True
+288.0659 	DATA 	Keypress: 5
+288.0845 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_512.png
+288.2648 	EXP 	unnamed ImageStim: ori = 135
+288.2648 	EXP 	unnamed ImageStim: ori = 135
+288.2648 	EXP 	unnamed Aperture: enabled = True
+288.5230 	DATA 	Keypress: 5
+288.5483 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_513.png
+288.7345 	EXP 	unnamed ImageStim: ori = 135
+288.7345 	EXP 	unnamed ImageStim: ori = 135
+288.7345 	EXP 	unnamed Aperture: enabled = True
+288.9358 	DATA 	Keypress: 5
+288.9559 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_514.png
+289.1475 	EXP 	unnamed ImageStim: ori = 135
+289.1475 	EXP 	unnamed ImageStim: ori = 135
+289.1475 	EXP 	unnamed Aperture: enabled = True
+289.4066 	DATA 	Keypress: 5
+289.4303 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_515.png
+289.6093 	EXP 	unnamed ImageStim: ori = 135
+289.6093 	EXP 	unnamed ImageStim: ori = 135
+289.6093 	EXP 	unnamed Aperture: enabled = True
+289.8346 	DATA 	Keypress: 5
+289.8550 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_516.png
+290.0433 	EXP 	unnamed ImageStim: ori = 135
+290.0433 	EXP 	unnamed ImageStim: ori = 135
+290.0433 	EXP 	unnamed Aperture: enabled = True
+290.4297 	DATA 	Keypress: 5
+290.4474 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_517.png
+290.6294 	EXP 	unnamed ImageStim: ori = 135
+290.6294 	EXP 	unnamed ImageStim: ori = 135
+290.6294 	EXP 	unnamed Aperture: enabled = True
+290.9211 	DATA 	Keypress: 5
+290.9398 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_518.png
+291.1299 	EXP 	unnamed ImageStim: ori = 135
+291.1299 	EXP 	unnamed ImageStim: ori = 135
+291.1299 	EXP 	unnamed Aperture: enabled = True
+291.2691 	DATA 	Keypress: 5
+291.2871 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_519.png
+291.4732 	EXP 	unnamed ImageStim: ori = 135
+291.4732 	EXP 	unnamed ImageStim: ori = 135
+291.4732 	EXP 	unnamed Aperture: enabled = True
+291.7078 	DATA 	Keypress: 5
+291.7276 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_520.png
+291.9175 	EXP 	unnamed ImageStim: ori = 135
+291.9175 	EXP 	unnamed ImageStim: ori = 135
+291.9175 	EXP 	unnamed Aperture: enabled = True
+292.2225 	DATA 	Keypress: 5
+292.2418 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_521.png
+292.7000 	DATA 	Keypress: 5
+292.7180 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_522.png
+293.1830 	DATA 	Keypress: 5
+293.2008 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_523.png
+293.6993 	DATA 	Keypress: 5
+293.7193 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_524.png
+294.2168 	DATA 	Keypress: 5
+294.2347 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_525.png
+294.4269 	EXP 	unnamed ImageStim: ori = 0
+294.4269 	EXP 	unnamed ImageStim: ori = 0
+294.4269 	EXP 	unnamed Aperture: enabled = True
+294.6154 	DATA 	Keypress: 5
+294.6365 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_526.png
+294.8222 	EXP 	unnamed ImageStim: ori = 0
+294.8222 	EXP 	unnamed ImageStim: ori = 0
+294.8222 	EXP 	unnamed Aperture: enabled = True
+295.1318 	DATA 	Keypress: 5
+295.1559 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_527.png
+295.3346 	EXP 	unnamed ImageStim: ori = 0
+295.3346 	EXP 	unnamed ImageStim: ori = 0
+295.3346 	EXP 	unnamed Aperture: enabled = True
+295.5848 	DATA 	Keypress: 5
+295.6155 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_528.png
+295.7932 	EXP 	unnamed ImageStim: ori = 0
+295.7932 	EXP 	unnamed ImageStim: ori = 0
+295.7932 	EXP 	unnamed Aperture: enabled = True
+296.1359 	DATA 	Keypress: 5
+296.1560 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_529.png
+296.3319 	EXP 	unnamed ImageStim: ori = 0
+296.3319 	EXP 	unnamed ImageStim: ori = 0
+296.3319 	EXP 	unnamed Aperture: enabled = True
+296.6135 	DATA 	Keypress: 5
+296.6314 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_530.png
+296.8066 	EXP 	unnamed ImageStim: ori = 0
+296.8066 	EXP 	unnamed ImageStim: ori = 0
+296.8066 	EXP 	unnamed Aperture: enabled = True
+297.1074 	DATA 	Keypress: 5
+297.1277 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_531.png
+297.3087 	EXP 	unnamed ImageStim: ori = 0
+297.3087 	EXP 	unnamed ImageStim: ori = 0
+297.3087 	EXP 	unnamed Aperture: enabled = True
+297.6047 	DATA 	Keypress: 5
+297.6236 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_532.png
+297.7937 	EXP 	unnamed ImageStim: ori = 0
+297.7937 	EXP 	unnamed ImageStim: ori = 0
+297.7937 	EXP 	unnamed Aperture: enabled = True
+298.0885 	DATA 	Keypress: 5
+298.1102 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_533.png
+298.2863 	EXP 	unnamed ImageStim: ori = 0
+298.2863 	EXP 	unnamed ImageStim: ori = 0
+298.2863 	EXP 	unnamed Aperture: enabled = True
+298.6056 	DATA 	Keypress: 5
+298.6262 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_534.png
+298.8023 	EXP 	unnamed ImageStim: ori = 0
+298.8023 	EXP 	unnamed ImageStim: ori = 0
+298.8023 	EXP 	unnamed Aperture: enabled = True
+299.1145 	DATA 	Keypress: 5
+299.1348 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_535.png
+299.3113 	EXP 	unnamed ImageStim: ori = 0
+299.3113 	EXP 	unnamed ImageStim: ori = 0
+299.3113 	EXP 	unnamed Aperture: enabled = True
+299.5848 	DATA 	Keypress: 5
+299.6052 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_536.png
+299.7749 	EXP 	unnamed ImageStim: ori = 0
+299.7749 	EXP 	unnamed ImageStim: ori = 0
+299.7749 	EXP 	unnamed Aperture: enabled = True
+300.0095 	DATA 	Keypress: 5
+300.0313 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_537.png
+300.4656 	DATA 	Keypress: 5
+300.4836 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_538.png
+300.9157 	DATA 	Keypress: 5
+300.9357 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_539.png
+301.3162 	DATA 	Keypress: 5
+301.3379 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_540.png
+301.7489 	DATA 	Keypress: 5
+301.7692 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_541.png
+301.9612 	EXP 	unnamed ImageStim: ori = 45
+301.9612 	EXP 	unnamed ImageStim: ori = 45
+301.9612 	EXP 	unnamed Aperture: enabled = True
+302.1523 	DATA 	Keypress: 5
+302.1796 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_542.png
+302.3749 	EXP 	unnamed ImageStim: ori = 45
+302.3749 	EXP 	unnamed ImageStim: ori = 45
+302.3749 	EXP 	unnamed Aperture: enabled = True
+302.5791 	DATA 	Keypress: 5
+302.6010 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_543.png
+302.7927 	EXP 	unnamed ImageStim: ori = 45
+302.7927 	EXP 	unnamed ImageStim: ori = 45
+302.7927 	EXP 	unnamed Aperture: enabled = True
+303.0001 	DATA 	Keypress: 5
+303.0216 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_544.png
+303.2086 	EXP 	unnamed ImageStim: ori = 45
+303.2086 	EXP 	unnamed ImageStim: ori = 45
+303.2086 	EXP 	unnamed Aperture: enabled = True
+303.5690 	DATA 	Keypress: 5
+303.5909 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_545.png
+303.7744 	EXP 	unnamed ImageStim: ori = 45
+303.7744 	EXP 	unnamed ImageStim: ori = 45
+303.7744 	EXP 	unnamed Aperture: enabled = True
+303.9536 	DATA 	Keypress: 5
+303.9742 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_546.png
+304.1626 	EXP 	unnamed ImageStim: ori = 45
+304.1626 	EXP 	unnamed ImageStim: ori = 45
+304.1626 	EXP 	unnamed Aperture: enabled = True
+304.2774 	DATA 	Keypress: 5
+304.2996 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_547.png
+304.4921 	EXP 	unnamed ImageStim: ori = 45
+304.4921 	EXP 	unnamed ImageStim: ori = 45
+304.4921 	EXP 	unnamed Aperture: enabled = True
+304.7463 	DATA 	Keypress: 5
+304.7665 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_548.png
+304.9606 	EXP 	unnamed ImageStim: ori = 45
+304.9606 	EXP 	unnamed ImageStim: ori = 45
+304.9606 	EXP 	unnamed Aperture: enabled = True
+305.2224 	DATA 	Keypress: 5
+305.2435 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_549.png
+305.4277 	EXP 	unnamed ImageStim: ori = 45
+305.4277 	EXP 	unnamed ImageStim: ori = 45
+305.4277 	EXP 	unnamed Aperture: enabled = True
+305.7426 	DATA 	Keypress: 5
+305.7620 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_550.png
+305.9440 	EXP 	unnamed ImageStim: ori = 45
+305.9440 	EXP 	unnamed ImageStim: ori = 45
+305.9440 	EXP 	unnamed Aperture: enabled = True
+306.2026 	DATA 	Keypress: 5
+306.2218 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_551.png
+306.4109 	EXP 	unnamed ImageStim: ori = 45
+306.4109 	EXP 	unnamed ImageStim: ori = 45
+306.4109 	EXP 	unnamed Aperture: enabled = True
+306.6618 	DATA 	Keypress: 5
+306.6982 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_552.png
+306.8784 	EXP 	unnamed ImageStim: ori = 45
+306.8784 	EXP 	unnamed ImageStim: ori = 45
+306.8784 	EXP 	unnamed Aperture: enabled = True
+307.1473 	DATA 	Keypress: 5
+307.1667 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_553.png
+307.5481 	DATA 	Keypress: 5
+307.5656 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_554.png
+308.0814 	DATA 	Keypress: 5
+308.1004 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_555.png
+308.5316 	DATA 	Keypress: 5
+308.5499 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_556.png
+308.9984 	DATA 	Keypress: 5
+309.0178 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_557.png
+309.2154 	EXP 	unnamed ImageStim: ori = 90
+309.2154 	EXP 	unnamed ImageStim: ori = 90
+309.2154 	EXP 	unnamed Aperture: enabled = True
+309.4341 	DATA 	Keypress: 5
+309.4543 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_558.png
+309.6321 	EXP 	unnamed ImageStim: ori = 90
+309.6321 	EXP 	unnamed ImageStim: ori = 90
+309.6321 	EXP 	unnamed Aperture: enabled = True
+309.9404 	DATA 	Keypress: 5
+309.9607 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_559.png
+310.1335 	EXP 	unnamed ImageStim: ori = 90
+310.1335 	EXP 	unnamed ImageStim: ori = 90
+310.1335 	EXP 	unnamed Aperture: enabled = True
+310.3768 	DATA 	Keypress: 5
+310.3981 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_560.png
+310.5741 	EXP 	unnamed ImageStim: ori = 90
+310.5741 	EXP 	unnamed ImageStim: ori = 90
+310.5741 	EXP 	unnamed Aperture: enabled = True
+310.8409 	DATA 	Keypress: 5
+310.8586 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_561.png
+311.0356 	EXP 	unnamed ImageStim: ori = 90
+311.0356 	EXP 	unnamed ImageStim: ori = 90
+311.0356 	EXP 	unnamed Aperture: enabled = True
+311.3550 	DATA 	Keypress: 5
+311.3762 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_562.png
+311.5526 	EXP 	unnamed ImageStim: ori = 90
+311.5526 	EXP 	unnamed ImageStim: ori = 90
+311.5526 	EXP 	unnamed Aperture: enabled = True
+311.7861 	DATA 	Keypress: 5
+311.8065 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_563.png
+311.9876 	EXP 	unnamed ImageStim: ori = 90
+311.9876 	EXP 	unnamed ImageStim: ori = 90
+311.9876 	EXP 	unnamed Aperture: enabled = True
+312.1015 	DATA 	Keypress: 5
+312.1223 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_564.png
+312.3008 	EXP 	unnamed ImageStim: ori = 90
+312.3008 	EXP 	unnamed ImageStim: ori = 90
+312.3008 	EXP 	unnamed Aperture: enabled = True
+312.6676 	DATA 	Keypress: 5
+312.6883 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_565.png
+312.8703 	EXP 	unnamed ImageStim: ori = 90
+312.8703 	EXP 	unnamed ImageStim: ori = 90
+312.8703 	EXP 	unnamed Aperture: enabled = True
+313.2047 	DATA 	Keypress: 5
+313.2244 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_566.png
+313.4014 	EXP 	unnamed ImageStim: ori = 90
+313.4014 	EXP 	unnamed ImageStim: ori = 90
+313.4014 	EXP 	unnamed Aperture: enabled = True
+313.6812 	DATA 	Keypress: 5
+313.7012 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_567.png
+313.8791 	EXP 	unnamed ImageStim: ori = 90
+313.8791 	EXP 	unnamed ImageStim: ori = 90
+313.8791 	EXP 	unnamed Aperture: enabled = True
+314.1577 	DATA 	Keypress: 5
+314.1760 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_568.png
+314.3548 	EXP 	unnamed ImageStim: ori = 90
+314.3548 	EXP 	unnamed ImageStim: ori = 90
+314.3548 	EXP 	unnamed Aperture: enabled = True
+314.6363 	DATA 	Keypress: 5
+314.6551 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_569.png
+315.0968 	DATA 	Keypress: 5
+315.1144 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_570.png
+315.5655 	DATA 	Keypress: 5
+315.5837 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_571.png
+316.0315 	DATA 	Keypress: 5
+316.0516 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_572.png
+316.4976 	DATA 	Keypress: 5
+316.5166 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_573.png
+316.7099 	EXP 	unnamed ImageStim: ori = 135
+316.7099 	EXP 	unnamed ImageStim: ori = 135
+316.7099 	EXP 	unnamed Aperture: enabled = True
+316.9638 	DATA 	Keypress: 5
+316.9846 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_574.png
+317.1782 	EXP 	unnamed ImageStim: ori = 135
+317.1782 	EXP 	unnamed ImageStim: ori = 135
+317.1782 	EXP 	unnamed Aperture: enabled = True
+317.4255 	DATA 	Keypress: 5
+317.4655 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_575.png
+317.6550 	EXP 	unnamed ImageStim: ori = 135
+317.6550 	EXP 	unnamed ImageStim: ori = 135
+317.6550 	EXP 	unnamed Aperture: enabled = True
+317.8853 	DATA 	Keypress: 5
+317.9060 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_576.png
+318.0951 	EXP 	unnamed ImageStim: ori = 135
+318.0951 	EXP 	unnamed ImageStim: ori = 135
+318.0951 	EXP 	unnamed Aperture: enabled = True
+318.3901 	DATA 	Keypress: 5
+318.4082 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_577.png
+318.6011 	EXP 	unnamed ImageStim: ori = 135
+318.6011 	EXP 	unnamed ImageStim: ori = 135
+318.6011 	EXP 	unnamed Aperture: enabled = True
+318.8996 	DATA 	Keypress: 5
+318.9183 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_578.png
+319.1000 	EXP 	unnamed ImageStim: ori = 135
+319.1000 	EXP 	unnamed ImageStim: ori = 135
+319.1000 	EXP 	unnamed Aperture: enabled = True
+319.3861 	DATA 	Keypress: 5
+319.4065 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_579.png
+319.5886 	EXP 	unnamed ImageStim: ori = 135
+319.5886 	EXP 	unnamed ImageStim: ori = 135
+319.5886 	EXP 	unnamed Aperture: enabled = True
+319.8481 	DATA 	Keypress: 5
+319.8684 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_580.png
+320.0567 	EXP 	unnamed ImageStim: ori = 135
+320.0567 	EXP 	unnamed ImageStim: ori = 135
+320.0567 	EXP 	unnamed Aperture: enabled = True
+320.3618 	DATA 	Keypress: 5
+320.3818 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_581.png
+320.5710 	EXP 	unnamed ImageStim: ori = 135
+320.5710 	EXP 	unnamed ImageStim: ori = 135
+320.5710 	EXP 	unnamed Aperture: enabled = True
+320.8584 	DATA 	Keypress: 5
+320.8760 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_582.png
+321.0689 	EXP 	unnamed ImageStim: ori = 135
+321.0689 	EXP 	unnamed ImageStim: ori = 135
+321.0689 	EXP 	unnamed Aperture: enabled = True
+321.3367 	DATA 	Keypress: 5
+321.3560 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_583.png
+321.5507 	EXP 	unnamed ImageStim: ori = 135
+321.5507 	EXP 	unnamed ImageStim: ori = 135
+321.5507 	EXP 	unnamed Aperture: enabled = True
+321.8284 	DATA 	Keypress: 5
+321.8460 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_584.png
+322.0305 	EXP 	unnamed ImageStim: ori = 135
+322.0305 	EXP 	unnamed ImageStim: ori = 135
+322.0305 	EXP 	unnamed Aperture: enabled = True
+322.3232 	DATA 	Keypress: 5
+322.3415 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_585.png
+322.7976 	DATA 	Keypress: 5
+322.8165 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_586.png
+323.2649 	DATA 	Keypress: 5
+323.2841 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_587.png
+323.6977 	DATA 	Keypress: 5
+323.7166 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_588.png
+324.1479 	DATA 	Keypress: 5
+324.1661 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_589.png
+324.5978 	DATA 	Keypress: 5
+324.6153 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_590.png
+325.0310 	DATA 	Keypress: 5
+325.0497 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_591.png
+325.4643 	DATA 	Keypress: 5
+325.4833 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_592.png
+325.8818 	DATA 	Keypress: 5
+325.9018 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_593.png
+326.2826 	DATA 	Keypress: 5
+326.3002 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_594.png
+326.7483 	DATA 	Keypress: 5
+326.7663 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_595.png
+327.1967 	DATA 	Keypress: 5
+327.2164 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_596.png
+327.6451 	DATA 	Keypress: 5
+327.6628 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_597.png
+328.1468 	DATA 	Keypress: 5
+328.1679 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_598.png
+328.6638 	DATA 	Keypress: 5
+328.6821 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_599.png
+329.1483 	DATA 	Keypress: 5
+329.1670 	INFO 	Writing 1 frames to YP_SubjData\pRF\PNG\frame_600.png
+329.6946 	DATA 	Keypress: 5
+330.1902 	DATA 	Keypress: 5
+330.8203 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.

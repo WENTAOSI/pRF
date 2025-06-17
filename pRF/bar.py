@@ -120,7 +120,7 @@ stim_schedule = []
 
 orientations = [0, 45, 90, 135]
 n_steps = 12
-n_reps = 12
+n_reps = 9
 aperture_radius = 5  # dva
 
 # Sweep offsets from -5° to 5°
@@ -143,12 +143,24 @@ for rep in range(n_reps):
         norm = np.sqrt(dx**2 + dy**2)
         dx /= norm
         dy /= norm
+        
+        # Insert 4 blank steps before this orientation starts
+        for blank_step in range(4):
+            stim_schedule.append({
+                'type': 'blank',
+                'rep': None,
+                'orientation': ori,
+                'position': None,
+                'step': None,  # optional: label as negative steps
+                'fix_change': 0
+            })
 
         for step_num, offset in enumerate(sweep_offsets):
             pos_x = offset * dx
             pos_y = offset * dy
 
             stim_schedule.append({
+                'type': 'bar',
                 'rep': rep + 1,
                 'orientation': ori,
                 'position': (pos_x, pos_y),
@@ -707,24 +719,29 @@ show_fixation_until_triggers(myWin, dotFix, num_triggers=10,
 
 first_run = True
 for step in stim_schedule:
-    position = step['position']
-    orientation = step['orientation']
     
-    # Optional: rotate stimuli here if orientation changes
-    checker_A.ori = orientation
-    checker_B.ori = orientation
-    aperture.enabled = True  # enable for current frame
+    if step['type'] == 'bar':
+        position = step['position']
+        orientation = step['orientation']
+        
+        # rotate stimuli here if orientation changes
+        checker_A.ori = orientation
+        checker_B.ori = orientation
+        aperture.enabled = True  # enable for current frame
+        
+        flicker_until_trigger(myWin, checker_A, checker_B, flicker_rate=8,
+                          position=position,
+                          fix_stim=dotFix,
+                          first_run=first_run,
+                          save_frames=(expInfo['mode'] == 'outputMovie'),
+                          outFolder=PNGFolderName
+                          )
+        first_run = False
     
-    flicker_until_trigger(myWin, checker_A, checker_B, flicker_rate=8,
-                      position=position,
-                      fix_stim=dotFix,
-                      first_run=first_run,
-                      save_frames=(expInfo['mode'] == 'outputMovie'),
-                      outFolder=PNGFolderName
-                      )
-    
-    
-    first_run = False
+    elif step['type'] == 'blank':
+        show_fixation_until_triggers(myWin, dotFix, num_triggers=1, 
+                                     save_frames=(expInfo['mode'] == 'outputMovie'),
+                                     outFolder=PNGFolderName)
 
 # End fixation 
 show_fixation_until_triggers(myWin, dotFix, num_triggers=16-1, # trigger at the end of each volume should -1 other wise it will be 17
